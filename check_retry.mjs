@@ -16,6 +16,10 @@ for(const [unit,section] of [...bank.units.flatMap(u=>[[u.id,'vocabulary'],[u.id
  assert.equal(run('session.graded[0]'),true,'Selecting must grade immediately');
  assert.match(run('questionCard()'),/Chính xác/);
  assert.match(run('questionCard()'),/Đáp án đúng/);
+ assert.match(run('questionCard()'),/study-panel/);
+ assert.match(run('questionCard()'),/Câu ví dụ/);
+ assert.match(run('questionCard()'),/<ruby>/);
+ assert.match(run('questionCard()'),/Đồng nghĩa \/ gần nghĩa/);
  run('checkAnswer();checkAnswer()');
  assert.equal(run('session.index'),1,'Double click cannot skip next blank question');
  run('session.index=0;updateAnswer((session.questions[0].answer+1)%4);checkAnswer()');

@@ -32,3 +32,9 @@ Bộ câu hỏi có câu mẫu và câu biên soạn thêm. Câu được chia t
 ## Từ vựng chung
 
 `common_vocabulary.py` chứa 118 từ khác nhau trong bảng người dùng gửi. `対応する` bị lặp được gộp lại. `commonVocabulary` trong JSON có danh sách từ với cách đọc, nghĩa và ví dụ, cùng ngân hàng 347 câu hỏi. Mỗi lượt chọn 40 câu (10 cách đọc, 8 chữ Hán, 10 điền từ, 6 gần nghĩa, 6 cách dùng), ưu tiên các từ chưa chọn trong lượt đó. Các lượt có thể trùng nhau. Bốn unit và bộ 320 câu ban đầu không bị thay đổi.
+
+## Thẻ học sau khi chấm
+
+learning_data.py bổ sung thẻ học cho toàn bộ câu hỏi: furigana, âm Hán Việt cho chữ Hán, nghĩa, câu ví dụ có dịch, từ gần nghĩa và trái nghĩa hoặc đối chiếu. Có 22 thẻ mẫu ngữ pháp. Từ đối chiếu không được coi là trái nghĩa trực tiếp. Không gán cấp JLPT hoặc thống kê tần suất chính thức. Các thẻ nằm trong trường learning của questions.json.
+
+Để biên soạn lại: cài requirements-learning.txt vào thư mục .libraries bằng pip install --target .libraries -r requirements-learning.txt, rồi chạy build_questions.py. Dữ liệu furigana được sinh bằng Janome, có sửa cách đọc các cụm như 九時, 仕入先 và 今日中.

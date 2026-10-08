@@ -431,5 +431,7 @@ bank = revise_bank(bank)
 from common_vocabulary import build_common
 bank['commonVocabulary'] = build_common()
 bank['schemaVersion'] = 3
+from learning_data import build_learning
+bank = build_learning(bank)
 (ROOT/'dist'/'questions.json').write_text(json.dumps(bank,ensure_ascii=False,indent=2),encoding='utf-8')
 print(f"Generated 320 unit questions + {len(bank['commonVocabulary']['questions'])} common questions for 118 words.")
