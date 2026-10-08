@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#303caa">
+  <meta name="description" content="Luyện 320 câu trắc nghiệm tiếng Nhật Unit 9–12. Mỗi unit có 40 câu từ vựng và 40 câu ngữ pháp, kèm giải thích tiếng Việt.">
+  <title>Nihongo Practice · Unit 9–12</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Đến nội dung chính</a>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#" aria-label="Nihongo Practice, trang chủ"><span class="brand-mark" lang="ja">学</span><span>Nihongo<span class="brand-sub">PRACTICE</span></span></a>
+      <div class="side-label">GÓC ÔN TẬP</div>
+      <nav aria-label="Điều hướng" id="navigation"></nav>
+      <div class="side-foot"><span lang="ja">一歩ずつ。</span><p>Mỗi ngày một chút.</p><small>Unit 9 — Unit 12</small></div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar"><span>日本語 <span class="divider">/</span> Luyện tập trắc nghiệm</span><span class="top-tag">4 UNIT · 320 CÂU</span></header>
+      <main id="main" tabindex="-1"><p class="loading" role="status">Đang tải bộ câu hỏi…</p></main>
+      <footer><span>Nihongo Practice · Học, luyện, hiểu.</span><button class="text-button" id="sources-button">Tài liệu & phạm vi</button></footer>
+    </div>
+  </div>
+  <dialog id="source-dialog"><div class="dialog-head"><h2>Tài liệu & phạm vi</h2><button class="icon-button" id="close-sources" aria-label="Đóng">×</button></div><p>Ngữ pháp theo danh sách 文型リスト Unit 9, 10, 11 và 12 trong bốn PDF bạn cung cấp. Câu hỏi được biên soạn mới.</p><p>Dạng bài theo đề mẫu <a href="https://docs.google.com/document/d/1HSximubVekvNDQGxYUeXPl1Oxyf48mUYG5MfaLXFw3s/edit?tab=t.hzms1cy131go" target="_blank" rel="noopener">Google Docs: Thao khảo</a>.</p><p>Tài liệu Google Docs không chia từ vựng theo unit. Các từ trong đề mẫu và ví dụ PDF được bổ sung, phân bổ theo chủ đề; đây không phải danh sách từ vựng chính thức của từng unit.</p><a href="questions.json" download class="secondary">Tải ngân hàng câu hỏi JSON</a></dialog>
+  <dialog id="confirm-dialog"><h2 id="confirm-title"></h2><p id="confirm-message"></p><div class="dialog-actions"><button class="secondary" id="cancel-confirm">Tiếp tục làm bài</button><button class="primary" id="accept-confirm">Nộp bài</button></div></dialog>
+</body>
+</html>
