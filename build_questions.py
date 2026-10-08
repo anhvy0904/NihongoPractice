@@ -428,5 +428,8 @@ bank = dict(schemaVersion=1,title='Nihongo Practice · Unit 9–12',
                  vocabularyNote='Google Docs không có danh sách từ theo unit. Từ vựng được biên soạn và phân bổ theo chủ đề từ đề mẫu và ví dụ PDF; không phải danh sách chính thức theo unit.'),units=units)
 from exam_update import revise_bank
 bank = revise_bank(bank)
+from common_vocabulary import build_common
+bank['commonVocabulary'] = build_common()
+bank['schemaVersion'] = 3
 (ROOT/'dist'/'questions.json').write_text(json.dumps(bank,ensure_ascii=False,indent=2),encoding='utf-8')
-print('Generated 320 questions: 4 units x (40 vocabulary + 40 grammar).')
+print(f"Generated 320 unit questions + {len(bank['commonVocabulary']['questions'])} common questions for 118 words.")

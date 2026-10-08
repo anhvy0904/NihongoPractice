@@ -28,3 +28,7 @@ Chạy `python build_questions.py` để biên soạn lại JSON từ nguồn c�
 Từ vựng và dạng bài theo bốn đề mẫu Unit 9–12 người dùng gửi trực tiếp. `exam_update.py` chứa dữ liệu cập nhật, được tích hợp bởi `build_questions.py`. Mỗi phần vẫn giữ 40 câu theo yêu cầu ban đầu. Các câu có ngữ cảnh, từ được gạch chân, hướng dẫn tiếng Nhật và lựa chọn 1–4. Một số phương án trùng hoặc gây nhiều đáp án trong đề mẫu đã được sửa. Không áp dụng giới hạn 10 phút của đề mẫu ngắn cho bài luyện 40 câu.
 
 Bộ câu hỏi có câu mẫu và câu biên soạn thêm. Câu được chia theo dạng 問題1–5 (từ vựng) và 問題1–2 (ngữ pháp); lựa chọn đáp án được xáo trộn mỗi lần bắt đầu. Đáp án hiện sau nộp bài; có thể xem lại và làm lại những câu chưa đúng. Bài làm chỉ nằm trong bộ nhớ của trang, mất khi tải lại hoặc đóng trang.
+
+## Từ vựng chung
+
+`common_vocabulary.py` chứa 118 từ khác nhau trong bảng người dùng gửi. `対応する` bị lặp được gộp lại. `commonVocabulary` trong JSON có danh sách từ với cách đọc, nghĩa và ví dụ, cùng ngân hàng 347 câu hỏi. Mỗi lượt chọn 40 câu (10 cách đọc, 8 chữ Hán, 10 điền từ, 6 gần nghĩa, 6 cách dùng), ưu tiên các từ chưa chọn trong lượt đó. Các lượt có thể trùng nhau. Bốn unit và bộ 320 câu ban đầu không bị thay đổi.

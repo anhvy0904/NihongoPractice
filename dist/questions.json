@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "title": "Nihongo Practice · Unit 9–12",
   "sources": {
     "grammar": "Đề mẫu Unit 9–12 người dùng gửi và bốn PDF 文型リスト.",
@@ -5494,5 +5494,6821 @@
         }
       ]
     }
-  ]
+  ],
+  "commonVocabulary": {
+    "id": "common",
+    "title": "Từ vựng chung",
+    "words": [
+      {
+        "word": "貿易",
+        "reading": "ぼうえき",
+        "meaning": "ngoại thương, thương mại quốc tế",
+        "paraphrase": "国どうしで商品を売買すること",
+        "sentence": "日本は多くの国と貿易をしている。",
+        "category": "noun"
+      },
+      {
+        "word": "輸出",
+        "reading": "ゆしゅつ",
+        "meaning": "xuất khẩu",
+        "paraphrase": "商品を外国へ売って送り出すこと",
+        "sentence": "この会社は機械の輸出を行っている。",
+        "category": "noun"
+      },
+      {
+        "word": "輸入",
+        "reading": "ゆにゅう",
+        "meaning": "nhập khẩu",
+        "paraphrase": "外国の商品を国内へ買い入れること",
+        "sentence": "海外から食品を輸入する。",
+        "category": "noun"
+      },
+      {
+        "word": "機能",
+        "reading": "きのう",
+        "meaning": "chức năng",
+        "paraphrase": "機械やシステムが果たす働き",
+        "sentence": "アプリに新しい機能を追加する。",
+        "category": "noun"
+      },
+      {
+        "word": "単体テスト",
+        "reading": "たんたいテスト",
+        "meaning": "kiểm thử từng thành phần riêng lẻ",
+        "paraphrase": "一つの部品や機能を個別に確かめるテスト",
+        "sentence": "実装した関数の単体テストを行う。",
+        "category": "noun"
+      },
+      {
+        "word": "結合テスト",
+        "reading": "けつごうテスト",
+        "meaning": "kiểm thử tích hợp",
+        "paraphrase": "複数の部品を組み合わせて動きを確かめるテスト",
+        "sentence": "モジュール間の連携を結合テストで確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "試験項目",
+        "reading": "しけんこうもく",
+        "meaning": "hạng mục kiểm thử",
+        "paraphrase": "テストで確認する個々の内容",
+        "sentence": "試験項目を一覧にまとめる。",
+        "category": "noun"
+      },
+      {
+        "word": "進捗",
+        "reading": "しんちょく",
+        "meaning": "tiến độ",
+        "paraphrase": "作業がどこまで進んだかという状況",
+        "sentence": "朝会で開発の進捗を報告する。",
+        "category": "noun"
+      },
+      {
+        "word": "注意点",
+        "reading": "ちゅういてん",
+        "meaning": "điểm cần lưu ý",
+        "paraphrase": "気をつける必要がある点",
+        "sentence": "作業を始める前に注意点を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "統一",
+        "reading": "とういつ",
+        "meaning": "thống nhất",
+        "paraphrase": "ばらばらのものを同じ基準にそろえること",
+        "sentence": "チーム内で書式の統一を図る。",
+        "category": "noun"
+      },
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "kế hoạch, dự định",
+        "paraphrase": "これから行うと決めていること",
+        "sentence": "明日の予定を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "程度",
+        "reading": "ていど",
+        "meaning": "mức độ",
+        "paraphrase": "物事の大きさや強さの度合い",
+        "sentence": "エラーの程度によって対応を変える。",
+        "category": "noun"
+      },
+      {
+        "word": "朝会",
+        "reading": "ちょうかい",
+        "meaning": "buổi họp đầu giờ sáng",
+        "paraphrase": "朝に開く短い会議",
+        "sentence": "毎朝九時に朝会を行う。",
+        "category": "noun"
+      },
+      {
+        "word": "課題",
+        "reading": "かだい",
+        "meaning": "nhiệm vụ hoặc vấn đề cần giải quyết",
+        "paraphrase": "取り組んで解決すべき問題",
+        "sentence": "現在の課題をチームで話し合う。",
+        "category": "noun"
+      },
+      {
+        "word": "開発",
+        "reading": "かいはつ",
+        "meaning": "phát triển sản phẩm, phần mềm",
+        "paraphrase": "新しい製品やシステムを作り出すこと",
+        "sentence": "新しいアプリの開発を進める。",
+        "category": "noun"
+      },
+      {
+        "word": "担当",
+        "reading": "たんとう",
+        "meaning": "việc phụ trách, người phụ trách",
+        "paraphrase": "仕事を受け持つことやその人",
+        "sentence": "この機能の担当は田中さんです。",
+        "category": "noun"
+      },
+      {
+        "word": "数字",
+        "reading": "すうじ",
+        "meaning": "chữ số, con số",
+        "paraphrase": "数を表す文字",
+        "sentence": "報告書の数字を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "件数",
+        "reading": "けんすう",
+        "meaning": "số vụ, số trường hợp",
+        "paraphrase": "事柄や案件の数",
+        "sentence": "一日の問い合わせ件数を数える。",
+        "category": "noun"
+      },
+      {
+        "word": "消化",
+        "reading": "しょうか",
+        "meaning": "xử lý xong công việc; tiêu hóa",
+        "paraphrase": "予定した仕事などを次々にこなすこと",
+        "sentence": "予定していた作業をすべて消化した。",
+        "category": "noun"
+      },
+      {
+        "word": "トラブル",
+        "reading": "トラブル",
+        "meaning": "sự cố, rắc rối",
+        "paraphrase": "問題やもめごと",
+        "sentence": "システムにトラブルが発生した。",
+        "category": "noun"
+      },
+      {
+        "word": "解決策",
+        "reading": "かいけつさく",
+        "meaning": "phương án giải quyết",
+        "paraphrase": "問題を解決するための方法",
+        "sentence": "チームで解決策を考える。",
+        "category": "noun"
+      },
+      {
+        "word": "遅れ",
+        "reading": "おくれ",
+        "meaning": "sự chậm, sự trễ",
+        "paraphrase": "予定より遅くなること",
+        "sentence": "作業の遅れを報告する。",
+        "category": "noun"
+      },
+      {
+        "word": "遅延",
+        "reading": "ちえん",
+        "meaning": "sự trì hoãn, chậm trễ",
+        "paraphrase": "処理や進行が予定の時刻より遅れること",
+        "sentence": "通信の遅延を調べる。",
+        "category": "noun"
+      },
+      {
+        "word": "事実",
+        "reading": "じじつ",
+        "meaning": "sự thật",
+        "paraphrase": "実際に起こったこと",
+        "sentence": "推測ではなく事実を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "進捗率",
+        "reading": "しんちょくりつ",
+        "meaning": "tỷ lệ hoàn thành công việc",
+        "paraphrase": "全体に対して完了した作業の割合",
+        "sentence": "現在の進捗率は八十パーセントです。",
+        "category": "noun"
+      },
+      {
+        "word": "工程",
+        "reading": "こうてい",
+        "meaning": "công đoạn, bước trong quy trình",
+        "paraphrase": "製造や開発で順番に行う作業の区切り",
+        "sentence": "次の工程へ進む。",
+        "category": "noun"
+      },
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "meaning": "chi tiết",
+        "paraphrase": "細かく詳しい内容",
+        "sentence": "仕様の詳細を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "影響",
+        "reading": "えいきょう",
+        "meaning": "ảnh hưởng",
+        "paraphrase": "ある物事がほかの物事に及ぼす作用",
+        "sentence": "変更の影響を調査する。",
+        "category": "noun"
+      },
+      {
+        "word": "原因",
+        "reading": "げんいん",
+        "meaning": "nguyên nhân",
+        "paraphrase": "物事を引き起こしたもと",
+        "sentence": "エラーの原因を調べる。",
+        "category": "noun"
+      },
+      {
+        "word": "段階",
+        "reading": "だんかい",
+        "meaning": "giai đoạn, cấp độ",
+        "paraphrase": "物事が進む途中の一つの区切り",
+        "sentence": "開発はテストの段階に入った。",
+        "category": "noun"
+      },
+      {
+        "word": "不足",
+        "reading": "ふそく",
+        "meaning": "sự thiếu hụt",
+        "paraphrase": "必要な量に足りないこと",
+        "sentence": "人手の不足を解消したい。",
+        "category": "noun"
+      },
+      {
+        "word": "主流",
+        "reading": "しゅりゅう",
+        "meaning": "xu hướng chính, cách làm phổ biến",
+        "paraphrase": "中心となって広く使われている傾向",
+        "sentence": "今はこの方法が主流だ。",
+        "category": "noun"
+      },
+      {
+        "word": "難易度",
+        "reading": "なんいど",
+        "meaning": "mức độ khó dễ",
+        "paraphrase": "難しさや易しさの度合い",
+        "sentence": "課題の難易度を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "規模",
+        "reading": "きぼ",
+        "meaning": "quy mô",
+        "paraphrase": "組織や事業などの大きさ",
+        "sentence": "プロジェクトの規模が大きい。",
+        "category": "noun"
+      },
+      {
+        "word": "状態",
+        "reading": "じょうたい",
+        "meaning": "trạng thái",
+        "paraphrase": "ある時点での物事のありさま",
+        "sentence": "機器の状態を確認する。",
+        "category": "noun"
+      },
+      {
+        "word": "作業",
+        "reading": "さぎょう",
+        "meaning": "công việc, thao tác",
+        "paraphrase": "目的のために行う具体的な仕事",
+        "sentence": "今日の作業を始める。",
+        "category": "noun"
+      },
+      {
+        "word": "余裕",
+        "reading": "よゆう",
+        "meaning": "thời gian, năng lực hoặc phần dư",
+        "paraphrase": "時間や能力などにゆとりがあること",
+        "sentence": "締切までまだ余裕がある。",
+        "category": "noun"
+      },
+      {
+        "word": "最善",
+        "reading": "さいぜん",
+        "meaning": "tốt nhất trong các khả năng",
+        "paraphrase": "考えられる中でいちばんよいこと",
+        "sentence": "最善の方法を選ぶ。",
+        "category": "noun"
+      },
+      {
+        "word": "締め切り",
+        "reading": "しめきり",
+        "meaning": "hạn chót",
+        "paraphrase": "提出や申し込みを終える期限",
+        "sentence": "レポートの締め切りは金曜日だ。",
+        "category": "noun"
+      },
+      {
+        "word": "直前",
+        "reading": "ちょくぜん",
+        "meaning": "ngay trước thời điểm nào đó",
+        "paraphrase": "あることが起こるすぐ前",
+        "sentence": "会議の直前に資料を確認した。",
+        "category": "noun"
+      },
+      {
+        "word": "遅刻",
+        "reading": "ちこく",
+        "meaning": "việc đến muộn",
+        "paraphrase": "決められた時刻より遅く到着すること",
+        "sentence": "寝坊して会社に遅刻した。",
+        "category": "noun"
+      },
+      {
+        "word": "部署",
+        "reading": "ぶしょ",
+        "meaning": "bộ phận, phòng ban",
+        "paraphrase": "組織の中で仕事を分けて受け持つ部門",
+        "sentence": "来月から別の部署で働く。",
+        "category": "noun"
+      },
+      {
+        "word": "資料",
+        "reading": "しりょう",
+        "meaning": "tài liệu",
+        "paraphrase": "判断や説明のために使う情報や文書",
+        "sentence": "会議の資料を準備する。",
+        "category": "noun"
+      },
+      {
+        "word": "導入",
+        "reading": "どうにゅう",
+        "meaning": "việc đưa vào sử dụng",
+        "paraphrase": "新しい制度や道具を取り入れること",
+        "sentence": "新しいツールの導入を検討する。",
+        "category": "noun"
+      },
+      {
+        "word": "状況",
+        "reading": "じょうきょう",
+        "meaning": "tình hình, hoàn cảnh",
+        "paraphrase": "周囲も含めた物事の成り行きや様子",
+        "sentence": "現在の状況を報告する。",
+        "category": "noun"
+      },
+      {
+        "word": "経験",
+        "reading": "けいけん",
+        "meaning": "kinh nghiệm",
+        "paraphrase": "実際に行ったり体験したりして得たもの",
+        "sentence": "彼は開発の経験が豊富だ。",
+        "category": "noun"
+      },
+      {
+        "word": "可能性",
+        "reading": "かのうせい",
+        "meaning": "khả năng có thể xảy ra",
+        "paraphrase": "あることが起こりうる見込み",
+        "sentence": "予定が変わる可能性がある。",
+        "category": "noun"
+      },
+      {
+        "word": "注文する",
+        "reading": "ちゅうもんする",
+        "meaning": "đặt mua hàng hoặc gọi món",
+        "paraphrase": "商品や料理を頼んで買おうとする",
+        "sentence": "店で必要な商品を注文する。",
+        "category": "verb"
+      },
+      {
+        "word": "発注する",
+        "reading": "はっちゅうする",
+        "meaning": "đặt hàng với nhà cung cấp",
+        "paraphrase": "取引先に商品や仕事の注文を出す",
+        "sentence": "仕入先に部品を発注する。",
+        "category": "verb"
+      },
+      {
+        "word": "管理する",
+        "reading": "かんりする",
+        "meaning": "quản lý",
+        "paraphrase": "物事を整えて適切に保つ",
+        "sentence": "リーダーが進捗を管理する。",
+        "category": "verb"
+      },
+      {
+        "word": "準備する",
+        "reading": "じゅんびする",
+        "meaning": "chuẩn bị",
+        "paraphrase": "必要なものを前もってそろえる",
+        "sentence": "会議の資料を準備する。",
+        "category": "verb"
+      },
+      {
+        "word": "実施する",
+        "reading": "じっしする",
+        "meaning": "thực hiện, tiến hành",
+        "paraphrase": "計画したことを実際に行う",
+        "sentence": "明日、単体テストを実施する。",
+        "category": "verb"
+      },
+      {
+        "word": "進める",
+        "reading": "すすめる",
+        "meaning": "tiến hành, đẩy tiến độ",
+        "paraphrase": "物事を先へ運ぶ",
+        "sentence": "計画に沿って開発を進める。",
+        "category": "verb"
+      },
+      {
+        "word": "共有する",
+        "reading": "きょうゆうする",
+        "meaning": "chia sẻ, cùng có thông tin",
+        "paraphrase": "情報などを複数の人が共通に持つ",
+        "sentence": "注意点をチームで共有する。",
+        "category": "verb"
+      },
+      {
+        "word": "完了する",
+        "reading": "かんりょうする",
+        "meaning": "hoàn tất",
+        "paraphrase": "必要な作業をすべて終える",
+        "sentence": "今日中に作業を完了する。",
+        "category": "verb"
+      },
+      {
+        "word": "残業する",
+        "reading": "ざんぎょうする",
+        "meaning": "làm thêm giờ",
+        "paraphrase": "決められた勤務時間を過ぎて働く",
+        "sentence": "納期が近いので今日は残業する。",
+        "category": "verb"
+      },
+      {
+        "word": "相談する",
+        "reading": "そうだんする",
+        "meaning": "trao đổi để xin ý kiến",
+        "paraphrase": "問題について相手と話して意見を求める",
+        "sentence": "困ったら先輩に相談する。",
+        "category": "verb"
+      },
+      {
+        "word": "隠す",
+        "reading": "かくす",
+        "meaning": "giấu, che giấu",
+        "paraphrase": "人に見えないようにする",
+        "sentence": "ミスを隠すのはよくない。",
+        "category": "verb"
+      },
+      {
+        "word": "対応する",
+        "reading": "たいおうする",
+        "meaning": "ứng phó, xử lý phù hợp",
+        "paraphrase": "状況や相手に応じて行動する",
+        "sentence": "お客様の問い合わせに対応する。",
+        "category": "verb"
+      },
+      {
+        "word": "終了する",
+        "reading": "しゅうりょうする",
+        "meaning": "kết thúc",
+        "paraphrase": "続いていたことが終わる",
+        "sentence": "五時に会議が終了する。",
+        "category": "verb"
+      },
+      {
+        "word": "提出する",
+        "reading": "ていしゅつする",
+        "meaning": "nộp, trình tài liệu",
+        "paraphrase": "書類などを決められた相手に出す",
+        "sentence": "レポートを先生に提出する。",
+        "category": "verb"
+      },
+      {
+        "word": "報告する",
+        "reading": "ほうこくする",
+        "meaning": "báo cáo",
+        "paraphrase": "結果や状況を相手に知らせる",
+        "sentence": "作業の遅れをリーダーに報告する。",
+        "category": "verb"
+      },
+      {
+        "word": "依存する",
+        "reading": "いぞんする",
+        "meaning": "phụ thuộc, dựa vào",
+        "paraphrase": "ほかのものに頼って成り立つ",
+        "sentence": "この機能は外部システムに依存する。",
+        "category": "verb"
+      },
+      {
+        "word": "調整する",
+        "reading": "ちょうせいする",
+        "meaning": "điều chỉnh",
+        "paraphrase": "条件に合うように整える",
+        "sentence": "会議の日程を調整する。",
+        "category": "verb"
+      },
+      {
+        "word": "回避する",
+        "reading": "かいひする",
+        "meaning": "tránh, né",
+        "paraphrase": "危険や問題を避ける",
+        "sentence": "事前の確認でトラブルを回避する。",
+        "category": "verb"
+      },
+      {
+        "word": "調査する",
+        "reading": "ちょうさする",
+        "meaning": "điều tra, khảo sát",
+        "paraphrase": "事実を明らかにするために調べる",
+        "sentence": "エラーの原因を調査する。",
+        "category": "verb"
+      },
+      {
+        "word": "取り戻す",
+        "reading": "とりもどす",
+        "meaning": "lấy lại, khôi phục",
+        "paraphrase": "失ったものを再び手に入れる",
+        "sentence": "バックアップからデータを取り戻す。",
+        "category": "verb"
+      },
+      {
+        "word": "限る",
+        "reading": "かぎる",
+        "meaning": "giới hạn",
+        "paraphrase": "範囲をそれだけに制限する",
+        "sentence": "参加者を十人に限る。",
+        "category": "verb"
+      },
+      {
+        "word": "進行する",
+        "reading": "しんこうする",
+        "meaning": "diễn tiến, tiến hành",
+        "paraphrase": "物事が先へ進んでいく",
+        "sentence": "会議は予定どおり進行する。",
+        "category": "verb"
+      },
+      {
+        "word": "増員する",
+        "reading": "ぞういんする",
+        "meaning": "tăng nhân sự",
+        "paraphrase": "働く人の数を増やす",
+        "sentence": "作業が増えたのでスタッフを増員する。",
+        "category": "verb"
+      },
+      {
+        "word": "統計する",
+        "reading": "とうけいする",
+        "meaning": "thống kê",
+        "paraphrase": "数値を集めて整理し全体の傾向を示す",
+        "sentence": "毎月の件数を統計する。",
+        "category": "verb"
+      },
+      {
+        "word": "出荷する",
+        "reading": "しゅっかする",
+        "meaning": "xuất hàng, gửi hàng đi",
+        "paraphrase": "商品を倉庫や工場から送り出す",
+        "sentence": "注文された商品を出荷する。",
+        "category": "verb"
+      },
+      {
+        "word": "編集する",
+        "reading": "へんしゅうする",
+        "meaning": "biên tập, chỉnh sửa nội dung",
+        "paraphrase": "文章や動画を整理して作り直す",
+        "sentence": "撮影した動画を編集する。",
+        "category": "verb"
+      },
+      {
+        "word": "返品する",
+        "reading": "へんぴんする",
+        "meaning": "trả lại hàng đã mua",
+        "paraphrase": "買った商品を店に返す",
+        "sentence": "壊れていた商品を返品する。",
+        "category": "verb"
+      },
+      {
+        "word": "慌てる",
+        "reading": "あわてる",
+        "meaning": "luống cuống, hốt hoảng",
+        "paraphrase": "急なことに落ち着きを失う",
+        "sentence": "エラーが出ても慌てる必要はない。",
+        "category": "verb"
+      },
+      {
+        "word": "提案する",
+        "reading": "ていあんする",
+        "meaning": "đề xuất",
+        "paraphrase": "考えた案を相手に示す",
+        "sentence": "新しい方法を提案する。",
+        "category": "verb"
+      },
+      {
+        "word": "連携する",
+        "reading": "れんけいする",
+        "meaning": "phối hợp, liên kết",
+        "paraphrase": "互いに協力して働く",
+        "sentence": "二つの部署が連携する。",
+        "category": "verb"
+      },
+      {
+        "word": "支援する",
+        "reading": "しえんする",
+        "meaning": "hỗ trợ",
+        "paraphrase": "活動や仕事を助ける",
+        "sentence": "会社は新人の学習を支援する。",
+        "category": "verb"
+      },
+      {
+        "word": "修正する",
+        "reading": "しゅうせいする",
+        "meaning": "sửa lại lỗi hoặc nội dung",
+        "paraphrase": "間違っている部分を直す",
+        "sentence": "コードの間違いを修正する。",
+        "category": "verb"
+      },
+      {
+        "word": "検討する",
+        "reading": "けんとうする",
+        "meaning": "xem xét, cân nhắc kỹ",
+        "paraphrase": "よく調べて考える",
+        "sentence": "新しいツールの導入を検討する。",
+        "category": "verb"
+      },
+      {
+        "word": "頼む",
+        "reading": "たのむ",
+        "meaning": "nhờ, yêu cầu",
+        "paraphrase": "相手にお願いする",
+        "sentence": "先輩に確認を頼む。",
+        "category": "verb"
+      },
+      {
+        "word": "追加する",
+        "reading": "ついかする",
+        "meaning": "thêm vào",
+        "paraphrase": "あとからさらに足す",
+        "sentence": "試験項目を追加する。",
+        "category": "verb"
+      },
+      {
+        "word": "加える",
+        "reading": "くわえる",
+        "meaning": "bổ sung, thêm",
+        "paraphrase": "すでにあるものに別のものを足す",
+        "sentence": "資料に説明を加える。",
+        "category": "verb"
+      },
+      {
+        "word": "個性的",
+        "reading": "こせいてき",
+        "meaning": "có cá tính, có nét riêng",
+        "paraphrase": "その人や物らしい特徴がある様子",
+        "sentence": "彼のデザインは個性的だ。",
+        "category": "adjective"
+      },
+      {
+        "word": "具体的",
+        "reading": "ぐたいてき",
+        "meaning": "cụ thể",
+        "paraphrase": "内容がはっきり示されている様子",
+        "sentence": "具体的な解決策を考える。",
+        "category": "adjective"
+      },
+      {
+        "word": "順調",
+        "reading": "じゅんちょう",
+        "meaning": "thuận lợi",
+        "paraphrase": "問題なくうまく進んでいる様子",
+        "sentence": "作業は順調だ。",
+        "category": "adjective"
+      },
+      {
+        "word": "技術的",
+        "reading": "ぎじゅつてき",
+        "meaning": "về mặt kỹ thuật",
+        "paraphrase": "技術に関係する様子",
+        "sentence": "技術的な問題を調査する。",
+        "category": "adjective"
+      },
+      {
+        "word": "重要",
+        "reading": "じゅうよう",
+        "meaning": "quan trọng",
+        "paraphrase": "大切で欠かせない様子",
+        "sentence": "これは重要な注意点だ。",
+        "category": "adjective"
+      },
+      {
+        "word": "正確",
+        "reading": "せいかく",
+        "meaning": "chính xác",
+        "paraphrase": "間違いやずれがない様子",
+        "sentence": "正確な数字を報告する。",
+        "category": "adjective"
+      },
+      {
+        "word": "複雑",
+        "reading": "ふくざつ",
+        "meaning": "phức tạp",
+        "paraphrase": "多くの要素が入り組んでいる様子",
+        "sentence": "この機能は複雑だ。",
+        "category": "adjective"
+      },
+      {
+        "word": "重大",
+        "reading": "じゅうだい",
+        "meaning": "nghiêm trọng, hệ trọng",
+        "paraphrase": "影響が大きく深刻な様子",
+        "sentence": "重大なバグを発見した。",
+        "category": "adjective"
+      },
+      {
+        "word": "普通",
+        "reading": "ふつう",
+        "meaning": "bình thường",
+        "paraphrase": "特別ではなく一般的な様子",
+        "sentence": "普通の使い方なら問題はない。",
+        "category": "adjective"
+      },
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "meaning": "đơn giản, dễ",
+        "paraphrase": "難しくなく手軽な様子",
+        "sentence": "これは簡単な作業だ。",
+        "category": "adjective"
+      },
+      {
+        "word": "適当",
+        "reading": "てきとう",
+        "meaning": "phù hợp trong ngữ cảnh này",
+        "paraphrase": "条件や目的に合っている様子",
+        "sentence": "目的に適当な方法を選ぶ。",
+        "category": "adjective"
+      },
+      {
+        "word": "正直に",
+        "reading": "しょうじきに",
+        "meaning": "một cách thành thật",
+        "paraphrase": "うそをつかずに",
+        "sentence": "問題があれば正直に報告してください。",
+        "category": "adverb"
+      },
+      {
+        "word": "早めに",
+        "reading": "はやめに",
+        "meaning": "sớm hơn, sớm một chút",
+        "paraphrase": "予定や通常より少し早く",
+        "sentence": "資料を早めに提出する。",
+        "category": "adverb"
+      },
+      {
+        "word": "速やかに",
+        "reading": "すみやかに",
+        "meaning": "nhanh chóng, kịp thời",
+        "paraphrase": "時間をかけず手早く",
+        "sentence": "トラブルには速やかに対応する。",
+        "category": "adverb"
+      },
+      {
+        "word": "すぐに",
+        "reading": "すぐに",
+        "meaning": "ngay lập tức",
+        "paraphrase": "待たずにただちに",
+        "sentence": "分からないことはすぐに相談する。",
+        "category": "adverb"
+      },
+      {
+        "word": "ゆっくり",
+        "reading": "ゆっくり",
+        "meaning": "chậm rãi, thong thả",
+        "paraphrase": "急がず時間をかけて",
+        "sentence": "説明をゆっくり読んでください。",
+        "category": "adverb"
+      },
+      {
+        "word": "たまに",
+        "reading": "たまに",
+        "meaning": "thỉnh thoảng, không thường xuyên",
+        "paraphrase": "まれに、ときおり",
+        "sentence": "彼はたまに残業する。",
+        "category": "adverb"
+      },
+      {
+        "word": "時々",
+        "reading": "ときどき",
+        "meaning": "đôi khi, từng lúc",
+        "paraphrase": "ときおり、何度か",
+        "sentence": "このエラーは時々発生する。",
+        "category": "adverb"
+      },
+      {
+        "word": "しっかり",
+        "reading": "しっかり",
+        "meaning": "kỹ càng, chắc chắn",
+        "paraphrase": "十分に、きちんと",
+        "sentence": "要件をしっかり確認する。",
+        "category": "adverb"
+      },
+      {
+        "word": "なるべく",
+        "reading": "なるべく",
+        "meaning": "cố gắng trong khả năng, càng ... càng tốt",
+        "paraphrase": "できるだけ",
+        "sentence": "なるべく早く報告してください。",
+        "category": "adverb"
+      },
+      {
+        "word": "やっと",
+        "reading": "やっと",
+        "meaning": "cuối cùng cũng, sau nhiều nỗ lực",
+        "paraphrase": "苦労してようやく",
+        "sentence": "長いテストがやっと終わった。",
+        "category": "adverb"
+      },
+      {
+        "word": "たぶん",
+        "reading": "たぶん",
+        "meaning": "có lẽ, chắc là",
+        "paraphrase": "おそらく",
+        "sentence": "たぶん明日には完了するでしょう。",
+        "category": "adverb"
+      },
+      {
+        "word": "わざと",
+        "reading": "わざと",
+        "meaning": "cố ý",
+        "paraphrase": "意図的に、故意に",
+        "sentence": "確認のためにわざとエラーを発生させた。",
+        "category": "adverb"
+      },
+      {
+        "word": "タイミング",
+        "reading": "タイミング",
+        "meaning": "thời điểm thích hợp",
+        "paraphrase": "物事を行う時機",
+        "sentence": "報告するタイミングを考える。",
+        "category": "katakana"
+      },
+      {
+        "word": "コーディング",
+        "reading": "コーディング",
+        "meaning": "việc viết mã chương trình",
+        "paraphrase": "プログラムのコードを書くこと",
+        "sentence": "設計の後でコーディングを始める。",
+        "category": "katakana"
+      },
+      {
+        "word": "ロジック",
+        "reading": "ロジック",
+        "meaning": "logic, cách xử lý có hệ thống",
+        "paraphrase": "処理や考え方の筋道",
+        "sentence": "計算のロジックを確認する。",
+        "category": "katakana"
+      },
+      {
+        "word": "リーダー",
+        "reading": "リーダー",
+        "meaning": "người lãnh đạo, trưởng nhóm",
+        "paraphrase": "集団をまとめて導く人",
+        "sentence": "リーダーが作業を割り当てる。",
+        "category": "katakana"
+      },
+      {
+        "word": "メンバー",
+        "reading": "メンバー",
+        "meaning": "thành viên",
+        "paraphrase": "集団を構成する一人一人",
+        "sentence": "チームのメンバーに相談する。",
+        "category": "katakana"
+      },
+      {
+        "word": "プログラム",
+        "reading": "プログラム",
+        "meaning": "chương trình máy tính",
+        "paraphrase": "コンピューターに行わせる命令の集まり",
+        "sentence": "新しいプログラムを実行する。",
+        "category": "katakana"
+      },
+      {
+        "word": "チーム",
+        "reading": "チーム",
+        "meaning": "nhóm cùng làm việc",
+        "paraphrase": "同じ目的のために協力する集団",
+        "sentence": "チームで情報を共有する。",
+        "category": "katakana"
+      },
+      {
+        "word": "エラー",
+        "reading": "エラー",
+        "meaning": "lỗi trong xử lý hoặc vận hành",
+        "paraphrase": "処理中に起きる誤り",
+        "sentence": "入力のエラーを確認する。",
+        "category": "katakana"
+      },
+      {
+        "word": "クレーム",
+        "reading": "クレーム",
+        "meaning": "phản ánh, khiếu nại của khách hàng",
+        "paraphrase": "商品やサービスへの苦情",
+        "sentence": "お客様のクレームに対応する。",
+        "category": "katakana"
+      },
+      {
+        "word": "バグ",
+        "reading": "バグ",
+        "meaning": "lỗi trong chương trình",
+        "paraphrase": "プログラムに含まれる不具合",
+        "sentence": "テストでバグを発見する。",
+        "category": "katakana"
+      },
+      {
+        "word": "ツール",
+        "reading": "ツール",
+        "meaning": "công cụ",
+        "paraphrase": "作業を助ける道具",
+        "sentence": "便利なツールを導入する。",
+        "category": "katakana"
+      },
+      {
+        "word": "モジュール",
+        "reading": "モジュール",
+        "meaning": "mô-đun, bộ phận chức năng",
+        "paraphrase": "独立した機能を持つ構成部分",
+        "sentence": "二つのモジュールを結合する。",
+        "category": "katakana"
+      }
+    ],
+    "questions": [
+      {
+        "id": "common-001",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "貿易",
+        "options": [
+          "ぼうえぎ",
+          "ぼうえき",
+          "かのうせい",
+          "ぼおえき"
+        ],
+        "answer": 1,
+        "explanation": "貿易 đọc là ぼうえき: ngoại thương, thương mại quốc tế.",
+        "group": 1,
+        "sentence": "日本は多くの国と貿易をしている。",
+        "word": "貿易"
+      },
+      {
+        "id": "common-002",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ぼうえき",
+        "options": [
+          "トラブル",
+          "進捗率",
+          "経験",
+          "貿易"
+        ],
+        "answer": 3,
+        "explanation": "ぼうえき viết là 貿易: ngoại thương, thương mại quốc tế.",
+        "group": 2,
+        "sentence": "日本は多くの国とぼうえきをしている。",
+        "word": "貿易"
+      },
+      {
+        "id": "common-003",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "貿易",
+        "options": [
+          "外国の商品を国内へ買い入れること",
+          "国どうしで商品を売買すること",
+          "難しさや易しさの度合い",
+          "あることが起こるすぐ前"
+        ],
+        "answer": 1,
+        "explanation": "貿易 (ぼうえき): ngoại thương, thương mại quốc tế.",
+        "group": 4,
+        "sentence": "日本は多くの国と貿易をしている。",
+        "word": "貿易"
+      },
+      {
+        "id": "common-004",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "輸出",
+        "options": [
+          "ゆじゅつ",
+          "ゆしゆつ",
+          "しめきり",
+          "ゆしゅつ"
+        ],
+        "answer": 3,
+        "explanation": "輸出 đọc là ゆしゅつ: xuất khẩu.",
+        "group": 1,
+        "sentence": "この会社は機械の輸出を行っている。",
+        "word": "輸出"
+      },
+      {
+        "id": "common-005",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ゆしゅつ",
+        "options": [
+          "結合テスト",
+          "工程",
+          "トラブル",
+          "輸出"
+        ],
+        "answer": 3,
+        "explanation": "ゆしゅつ viết là 輸出: xuất khẩu.",
+        "group": 2,
+        "sentence": "この会社は機械のゆしゅつを行っている。",
+        "word": "輸出"
+      },
+      {
+        "id": "common-006",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "輸出",
+        "options": [
+          "提出や申し込みを終える期限",
+          "処理や進行が予定の時刻より遅れること",
+          "商品を外国へ売って送り出すこと",
+          "必要な量に足りないこと"
+        ],
+        "answer": 2,
+        "explanation": "輸出 (ゆしゅつ): xuất khẩu.",
+        "group": 4,
+        "sentence": "この会社は機械の輸出を行っている。",
+        "word": "輸出"
+      },
+      {
+        "id": "common-007",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "輸入",
+        "options": [
+          "ゆにゆう",
+          "ゆにゅう",
+          "かだい",
+          "ゆにゅお"
+        ],
+        "answer": 1,
+        "explanation": "輸入 đọc là ゆにゅう: nhập khẩu.",
+        "group": 1,
+        "sentence": "海外から食品を輸入する。",
+        "word": "輸入"
+      },
+      {
+        "id": "common-008",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ゆにゅう",
+        "options": [
+          "主流",
+          "試験項目",
+          "不足",
+          "輸入"
+        ],
+        "answer": 3,
+        "explanation": "ゆにゅう viết là 輸入: nhập khẩu.",
+        "group": 2,
+        "sentence": "海外から食品をゆにゅうする。",
+        "word": "輸入"
+      },
+      {
+        "id": "common-009",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "輸入",
+        "options": [
+          "細かく詳しい内容",
+          "全体に対して完了した作業の割合",
+          "外国の商品を国内へ買い入れること",
+          "数を表す文字"
+        ],
+        "answer": 2,
+        "explanation": "輸入 (ゆにゅう): nhập khẩu.",
+        "group": 4,
+        "sentence": "海外から食品を輸入する。",
+        "word": "輸入"
+      },
+      {
+        "id": "common-010",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "機能",
+        "options": [
+          "ぎのう",
+          "しょうか",
+          "きのう",
+          "きのお"
+        ],
+        "answer": 2,
+        "explanation": "機能 đọc là きのう: chức năng.",
+        "group": 1,
+        "sentence": "アプリに新しい機能を追加する。",
+        "word": "機能"
+      },
+      {
+        "id": "common-011",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "きのう",
+        "options": [
+          "朝会",
+          "機能",
+          "規模",
+          "件数"
+        ],
+        "answer": 1,
+        "explanation": "きのう viết là 機能: chức năng.",
+        "group": 2,
+        "sentence": "アプリに新しいきのうを追加する。",
+        "word": "機能"
+      },
+      {
+        "id": "common-012",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "機能",
+        "options": [
+          "機械やシステムが果たす働き",
+          "ある時点での物事のありさま",
+          "あることが起こるすぐ前",
+          "朝に開く短い会議"
+        ],
+        "answer": 0,
+        "explanation": "機能 (きのう): chức năng.",
+        "group": 4,
+        "sentence": "アプリに新しい機能を追加する。",
+        "word": "機能"
+      },
+      {
+        "id": "common-013",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "単体テスト",
+        "options": [
+          "たうたいテスト",
+          "たんだいテスト",
+          "たんたいテスト",
+          "だんたいテスト"
+        ],
+        "answer": 2,
+        "explanation": "単体テスト đọc là たんたいテスト: kiểm thử từng thành phần riêng lẻ.",
+        "group": 1,
+        "sentence": "実装した関数の単体テストを行う。",
+        "word": "単体テスト"
+      },
+      {
+        "id": "common-014",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "たんたいテスト",
+        "options": [
+          "不足",
+          "影響",
+          "統一",
+          "単体テスト"
+        ],
+        "answer": 3,
+        "explanation": "たんたいテスト viết là 単体テスト: kiểm thử từng thành phần riêng lẻ.",
+        "group": 2,
+        "sentence": "実装した関数のたんたいテストを行う。",
+        "word": "単体テスト"
+      },
+      {
+        "id": "common-015",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "単体テスト",
+        "options": [
+          "ばらばらのものを同じ基準にそろえること",
+          "これから行うと決めていること",
+          "気をつける必要がある点",
+          "一つの部品や機能を個別に確かめるテスト"
+        ],
+        "answer": 3,
+        "explanation": "単体テスト (たんたいテスト): kiểm thử từng thành phần riêng lẻ.",
+        "group": 4,
+        "sentence": "実装した関数の単体テストを行う。",
+        "word": "単体テスト"
+      },
+      {
+        "id": "common-016",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "結合テスト",
+        "options": [
+          "けつごおテスト",
+          "じょうきょう",
+          "けつごうテスト",
+          "げつごうテスト"
+        ],
+        "answer": 2,
+        "explanation": "結合テスト đọc là けつごうテスト: kiểm thử tích hợp.",
+        "group": 1,
+        "sentence": "モジュール間の連携を結合テストで確認する。",
+        "word": "結合テスト"
+      },
+      {
+        "id": "common-017",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "けつごうテスト",
+        "options": [
+          "結合テスト",
+          "導入",
+          "不足",
+          "課題"
+        ],
+        "answer": 0,
+        "explanation": "けつごうテスト viết là 結合テスト: kiểm thử tích hợp.",
+        "group": 2,
+        "sentence": "モジュール間の連携をけつごうテストで確認する。",
+        "word": "結合テスト"
+      },
+      {
+        "id": "common-018",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "結合テスト",
+        "options": [
+          "製造や開発で順番に行う作業の区切り",
+          "複数の部品を組み合わせて動きを確かめるテスト",
+          "朝に開く短い会議",
+          "処理や進行が予定の時刻より遅れること"
+        ],
+        "answer": 1,
+        "explanation": "結合テスト (けつごうテスト): kiểm thử tích hợp.",
+        "group": 4,
+        "sentence": "モジュール間の連携を結合テストで確認する。",
+        "word": "結合テスト"
+      },
+      {
+        "id": "common-019",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "試験項目",
+        "options": [
+          "しげんこうもく",
+          "しけうこうもく",
+          "しけんこうもく",
+          "じけんこうもく"
+        ],
+        "answer": 2,
+        "explanation": "試験項目 đọc là しけんこうもく: hạng mục kiểm thử.",
+        "group": 1,
+        "sentence": "試験項目を一覧にまとめる。",
+        "word": "試験項目"
+      },
+      {
+        "id": "common-020",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しけんこうもく",
+        "options": [
+          "不足",
+          "試験項目",
+          "輸入",
+          "経験"
+        ],
+        "answer": 1,
+        "explanation": "しけんこうもく viết là 試験項目: hạng mục kiểm thử.",
+        "group": 2,
+        "sentence": "しけんこうもくを一覧にまとめる。",
+        "word": "試験項目"
+      },
+      {
+        "id": "common-021",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "試験項目",
+        "options": [
+          "国どうしで商品を売買すること",
+          "問題を解決するための方法",
+          "テストで確認する個々の内容",
+          "判断や説明のために使う情報や文書"
+        ],
+        "answer": 2,
+        "explanation": "試験項目 (しけんこうもく): hạng mục kiểm thử.",
+        "group": 4,
+        "sentence": "試験項目を一覧にまとめる。",
+        "word": "試験項目"
+      },
+      {
+        "id": "common-022",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進捗",
+        "options": [
+          "しんじょく",
+          "しんちょく",
+          "しうちょく",
+          "じんちょく"
+        ],
+        "answer": 1,
+        "explanation": "進捗 đọc là しんちょく: tiến độ.",
+        "group": 1,
+        "sentence": "朝会で開発の進捗を報告する。",
+        "word": "進捗"
+      },
+      {
+        "id": "common-023",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しんちょく",
+        "options": [
+          "遅れ",
+          "影響",
+          "可能性",
+          "進捗"
+        ],
+        "answer": 3,
+        "explanation": "しんちょく viết là 進捗: tiến độ.",
+        "group": 2,
+        "sentence": "朝会で開発のしんちょくを報告する。",
+        "word": "進捗"
+      },
+      {
+        "id": "common-024",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進捗",
+        "options": [
+          "作業がどこまで進んだかという状況",
+          "物事を引き起こしたもと",
+          "時間や能力などにゆとりがあること",
+          "全体に対して完了した作業の割合"
+        ],
+        "answer": 0,
+        "explanation": "進捗 (しんちょく): tiến độ.",
+        "group": 4,
+        "sentence": "朝会で開発の進捗を報告する。",
+        "word": "進捗"
+      },
+      {
+        "id": "common-025",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "注意点",
+        "options": [
+          "じゅういてん",
+          "ちゅういてん",
+          "ちゆういてん",
+          "ちゅおいてん"
+        ],
+        "answer": 1,
+        "explanation": "注意点 đọc là ちゅういてん: điểm cần lưu ý.",
+        "group": 1,
+        "sentence": "作業を始める前に注意点を確認する。",
+        "word": "注意点"
+      },
+      {
+        "id": "common-026",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちゅういてん",
+        "options": [
+          "遅れ",
+          "進捗率",
+          "作業",
+          "注意点"
+        ],
+        "answer": 3,
+        "explanation": "ちゅういてん viết là 注意点: điểm cần lưu ý.",
+        "group": 2,
+        "sentence": "作業を始める前にちゅういてんを確認する。",
+        "word": "注意点"
+      },
+      {
+        "id": "common-027",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "注意点",
+        "options": [
+          "国どうしで商品を売買すること",
+          "気をつける必要がある点",
+          "商品を外国へ売って送り出すこと",
+          "これから行うと決めていること"
+        ],
+        "answer": 1,
+        "explanation": "注意点 (ちゅういてん): điểm cần lưu ý.",
+        "group": 4,
+        "sentence": "作業を始める前に注意点を確認する。",
+        "word": "注意点"
+      },
+      {
+        "id": "common-028",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "統一",
+        "options": [
+          "どういつ",
+          "しょうか",
+          "とういつ",
+          "とおいつ"
+        ],
+        "answer": 2,
+        "explanation": "統一 đọc là とういつ: thống nhất.",
+        "group": 1,
+        "sentence": "チーム内で書式の統一を図る。",
+        "word": "統一"
+      },
+      {
+        "id": "common-029",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "とういつ",
+        "options": [
+          "試験項目",
+          "輸出",
+          "統一",
+          "規模"
+        ],
+        "answer": 2,
+        "explanation": "とういつ viết là 統一: thống nhất.",
+        "group": 2,
+        "sentence": "チーム内で書式のとういつを図る。",
+        "word": "統一"
+      },
+      {
+        "id": "common-030",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "統一",
+        "options": [
+          "問題を解決するための方法",
+          "国どうしで商品を売買すること",
+          "組織の中で仕事を分けて受け持つ部門",
+          "ばらばらのものを同じ基準にそろえること"
+        ],
+        "answer": 3,
+        "explanation": "統一 (とういつ): thống nhất.",
+        "group": 4,
+        "sentence": "チーム内で書式の統一を図る。",
+        "word": "統一"
+      },
+      {
+        "id": "common-031",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "予定",
+        "options": [
+          "ふそく",
+          "よでい",
+          "ちゅういてん",
+          "よてい"
+        ],
+        "answer": 3,
+        "explanation": "予定 đọc là よてい: kế hoạch, dự định.",
+        "group": 1,
+        "sentence": "明日の予定を確認する。",
+        "word": "予定"
+      },
+      {
+        "id": "common-032",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "よてい",
+        "options": [
+          "作業",
+          "遅刻",
+          "予定",
+          "原因"
+        ],
+        "answer": 2,
+        "explanation": "よてい viết là 予定: kế hoạch, dự định.",
+        "group": 2,
+        "sentence": "明日のよていを確認する。",
+        "word": "予定"
+      },
+      {
+        "id": "common-033",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "予定",
+        "options": [
+          "国どうしで商品を売買すること",
+          "実際に起こったこと",
+          "問題やもめごと",
+          "これから行うと決めていること"
+        ],
+        "answer": 3,
+        "explanation": "予定 (よてい): kế hoạch, dự định.",
+        "group": 4,
+        "sentence": "明日の予定を確認する。",
+        "word": "予定"
+      },
+      {
+        "id": "common-034",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "程度",
+        "options": [
+          "ちょうかい",
+          "ていど",
+          "こうてい",
+          "でいど"
+        ],
+        "answer": 1,
+        "explanation": "程度 đọc là ていど: mức độ.",
+        "group": 1,
+        "sentence": "エラーの程度によって対応を変える。",
+        "word": "程度"
+      },
+      {
+        "id": "common-035",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ていど",
+        "options": [
+          "事実",
+          "遅刻",
+          "程度",
+          "主流"
+        ],
+        "answer": 2,
+        "explanation": "ていど viết là 程度: mức độ.",
+        "group": 2,
+        "sentence": "エラーのていどによって対応を変える。",
+        "word": "程度"
+      },
+      {
+        "id": "common-036",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "程度",
+        "options": [
+          "周囲も含めた物事の成り行きや様子",
+          "時間や能力などにゆとりがあること",
+          "ある時点での物事のありさま",
+          "物事の大きさや強さの度合い"
+        ],
+        "answer": 3,
+        "explanation": "程度 (ていど): mức độ.",
+        "group": 4,
+        "sentence": "エラーの程度によって対応を変える。",
+        "word": "程度"
+      },
+      {
+        "id": "common-037",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "朝会",
+        "options": [
+          "ちようかい",
+          "ちょおかい",
+          "じょうかい",
+          "ちょうかい"
+        ],
+        "answer": 3,
+        "explanation": "朝会 đọc là ちょうかい: buổi họp đầu giờ sáng.",
+        "group": 1,
+        "sentence": "毎朝九時に朝会を行う。",
+        "word": "朝会"
+      },
+      {
+        "id": "common-038",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちょうかい",
+        "options": [
+          "作業",
+          "朝会",
+          "注意点",
+          "担当"
+        ],
+        "answer": 1,
+        "explanation": "ちょうかい viết là 朝会: buổi họp đầu giờ sáng.",
+        "group": 2,
+        "sentence": "毎朝九時にちょうかいを行う。",
+        "word": "朝会"
+      },
+      {
+        "id": "common-039",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "朝会",
+        "options": [
+          "予定した仕事などを次々にこなすこと",
+          "問題やもめごと",
+          "朝に開く短い会議",
+          "あることが起こるすぐ前"
+        ],
+        "answer": 2,
+        "explanation": "朝会 (ちょうかい): buổi họp đầu giờ sáng.",
+        "group": 4,
+        "sentence": "毎朝九時に朝会を行う。",
+        "word": "朝会"
+      },
+      {
+        "id": "common-040",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "課題",
+        "options": [
+          "けいけん",
+          "じょうたい",
+          "がだい",
+          "かだい"
+        ],
+        "answer": 3,
+        "explanation": "課題 đọc là かだい: nhiệm vụ hoặc vấn đề cần giải quyết.",
+        "group": 1,
+        "sentence": "現在の課題をチームで話し合う。",
+        "word": "課題"
+      },
+      {
+        "id": "common-041",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かだい",
+        "options": [
+          "トラブル",
+          "試験項目",
+          "課題",
+          "単体テスト"
+        ],
+        "answer": 2,
+        "explanation": "かだい viết là 課題: nhiệm vụ hoặc vấn đề cần giải quyết.",
+        "group": 2,
+        "sentence": "現在のかだいをチームで話し合う。",
+        "word": "課題"
+      },
+      {
+        "id": "common-042",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "課題",
+        "options": [
+          "難しさや易しさの度合い",
+          "処理や進行が予定の時刻より遅れること",
+          "全体に対して完了した作業の割合",
+          "取り組んで解決すべき問題"
+        ],
+        "answer": 3,
+        "explanation": "課題 (かだい): nhiệm vụ hoặc vấn đề cần giải quyết.",
+        "group": 4,
+        "sentence": "現在の課題をチームで話し合う。",
+        "word": "課題"
+      },
+      {
+        "id": "common-043",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "開発",
+        "options": [
+          "かいはつ",
+          "がいはつ",
+          "だんかい",
+          "かいばつ"
+        ],
+        "answer": 0,
+        "explanation": "開発 đọc là かいはつ: phát triển sản phẩm, phần mềm.",
+        "group": 1,
+        "sentence": "新しいアプリの開発を進める。",
+        "word": "開発"
+      },
+      {
+        "id": "common-044",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かいはつ",
+        "options": [
+          "数字",
+          "開発",
+          "単体テスト",
+          "遅れ"
+        ],
+        "answer": 1,
+        "explanation": "かいはつ viết là 開発: phát triển sản phẩm, phần mềm.",
+        "group": 2,
+        "sentence": "新しいアプリのかいはつを進める。",
+        "word": "開発"
+      },
+      {
+        "id": "common-045",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "開発",
+        "options": [
+          "新しい製品やシステムを作り出すこと",
+          "決められた時刻より遅く到着すること",
+          "実際に起こったこと",
+          "処理や進行が予定の時刻より遅れること"
+        ],
+        "answer": 0,
+        "explanation": "開発 (かいはつ): phát triển sản phẩm, phần mềm.",
+        "group": 4,
+        "sentence": "新しいアプリの開発を進める。",
+        "word": "開発"
+      },
+      {
+        "id": "common-046",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "担当",
+        "options": [
+          "だんとう",
+          "たんとう",
+          "たんどう",
+          "たうとう"
+        ],
+        "answer": 1,
+        "explanation": "担当 đọc là たんとう: việc phụ trách, người phụ trách.",
+        "group": 1,
+        "sentence": "この機能の担当は田中さんです。",
+        "word": "担当"
+      },
+      {
+        "id": "common-047",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "たんとう",
+        "options": [
+          "導入",
+          "試験項目",
+          "担当",
+          "機能"
+        ],
+        "answer": 2,
+        "explanation": "たんとう viết là 担当: việc phụ trách, người phụ trách.",
+        "group": 2,
+        "sentence": "この機能のたんとうは田中さんです。",
+        "word": "担当"
+      },
+      {
+        "id": "common-048",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "担当",
+        "options": [
+          "仕事を受け持つことやその人",
+          "処理や進行が予定の時刻より遅れること",
+          "製造や開発で順番に行う作業の区切り",
+          "商品を外国へ売って送り出すこと"
+        ],
+        "answer": 0,
+        "explanation": "担当 (たんとう): việc phụ trách, người phụ trách.",
+        "group": 4,
+        "sentence": "この機能の担当は田中さんです。",
+        "word": "担当"
+      },
+      {
+        "id": "common-049",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "数字",
+        "options": [
+          "すうし",
+          "すうじ",
+          "なんいど",
+          "すおじ"
+        ],
+        "answer": 1,
+        "explanation": "数字 đọc là すうじ: chữ số, con số.",
+        "group": 1,
+        "sentence": "報告書の数字を確認する。",
+        "word": "数字"
+      },
+      {
+        "id": "common-050",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "すうじ",
+        "options": [
+          "難易度",
+          "程度",
+          "数字",
+          "遅刻"
+        ],
+        "answer": 2,
+        "explanation": "すうじ viết là 数字: chữ số, con số.",
+        "group": 2,
+        "sentence": "報告書のすうじを確認する。",
+        "word": "数字"
+      },
+      {
+        "id": "common-051",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "数字",
+        "options": [
+          "物事の大きさや強さの度合い",
+          "問題を解決するための方法",
+          "複数の部品を組み合わせて動きを確かめるテスト",
+          "数を表す文字"
+        ],
+        "answer": 3,
+        "explanation": "数字 (すうじ): chữ số, con số.",
+        "group": 4,
+        "sentence": "報告書の数字を確認する。",
+        "word": "数字"
+      },
+      {
+        "id": "common-052",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "件数",
+        "options": [
+          "けんすう",
+          "けうすう",
+          "げんすう",
+          "けんすお"
+        ],
+        "answer": 0,
+        "explanation": "件数 đọc là けんすう: số vụ, số trường hợp.",
+        "group": 1,
+        "sentence": "一日の問い合わせ件数を数える。",
+        "word": "件数"
+      },
+      {
+        "id": "common-053",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "けんすう",
+        "options": [
+          "注意点",
+          "原因",
+          "トラブル",
+          "件数"
+        ],
+        "answer": 3,
+        "explanation": "けんすう viết là 件数: số vụ, số trường hợp.",
+        "group": 2,
+        "sentence": "一日の問い合わせけんすうを数える。",
+        "word": "件数"
+      },
+      {
+        "id": "common-054",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "件数",
+        "options": [
+          "事柄や案件の数",
+          "物事の大きさや強さの度合い",
+          "考えられる中でいちばんよいこと",
+          "判断や説明のために使う情報や文書"
+        ],
+        "answer": 0,
+        "explanation": "件数 (けんすう): số vụ, số trường hợp.",
+        "group": 4,
+        "sentence": "一日の問い合わせ件数を数える。",
+        "word": "件数"
+      },
+      {
+        "id": "common-055",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "消化",
+        "options": [
+          "しようか",
+          "じょうか",
+          "しょうか",
+          "しょおか"
+        ],
+        "answer": 2,
+        "explanation": "消化 đọc là しょうか: xử lý xong công việc; tiêu hóa.",
+        "group": 1,
+        "sentence": "予定していた作業をすべて消化した。",
+        "word": "消化"
+      },
+      {
+        "id": "common-056",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しょうか",
+        "options": [
+          "状況",
+          "資料",
+          "結合テスト",
+          "消化"
+        ],
+        "answer": 3,
+        "explanation": "しょうか viết là 消化: xử lý xong công việc; tiêu hóa.",
+        "group": 2,
+        "sentence": "予定していた作業をすべてしょうかした。",
+        "word": "消化"
+      },
+      {
+        "id": "common-057",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "消化",
+        "options": [
+          "実際に起こったこと",
+          "事柄や案件の数",
+          "予定した仕事などを次々にこなすこと",
+          "問題を解決するための方法"
+        ],
+        "answer": 2,
+        "explanation": "消化 (しょうか): xử lý xong công việc; tiêu hóa.",
+        "group": 4,
+        "sentence": "予定していた作業をすべて消化した。",
+        "word": "消化"
+      },
+      {
+        "id": "common-058",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "トラブル",
+        "options": [
+          "難しさや易しさの度合い",
+          "目的のために行う具体的な仕事",
+          "問題やもめごと",
+          "提出や申し込みを終える期限"
+        ],
+        "answer": 2,
+        "explanation": "トラブル (トラブル): sự cố, rắc rối.",
+        "group": 4,
+        "sentence": "システムにトラブルが発生した。",
+        "word": "トラブル"
+      },
+      {
+        "id": "common-059",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "解決策",
+        "options": [
+          "かいけつさく",
+          "かいけつさぐ",
+          "がいけつさく",
+          "かいげつさく"
+        ],
+        "answer": 0,
+        "explanation": "解決策 đọc là かいけつさく: phương án giải quyết.",
+        "group": 1,
+        "sentence": "チームで解決策を考える。",
+        "word": "解決策"
+      },
+      {
+        "id": "common-060",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かいけつさく",
+        "options": [
+          "解決策",
+          "不足",
+          "事実",
+          "状態"
+        ],
+        "answer": 0,
+        "explanation": "かいけつさく viết là 解決策: phương án giải quyết.",
+        "group": 2,
+        "sentence": "チームでかいけつさくを考える。",
+        "word": "解決策"
+      },
+      {
+        "id": "common-061",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "解決策",
+        "options": [
+          "国どうしで商品を売買すること",
+          "処理や進行が予定の時刻より遅れること",
+          "事柄や案件の数",
+          "問題を解決するための方法"
+        ],
+        "answer": 3,
+        "explanation": "解決策 (かいけつさく): phương án giải quyết.",
+        "group": 4,
+        "sentence": "チームで解決策を考える。",
+        "word": "解決策"
+      },
+      {
+        "id": "common-062",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "遅れ",
+        "options": [
+          "じじつ",
+          "おぐれ",
+          "おくれ",
+          "よてい"
+        ],
+        "answer": 2,
+        "explanation": "遅れ đọc là おくれ: sự chậm, sự trễ.",
+        "group": 1,
+        "sentence": "作業の遅れを報告する。",
+        "word": "遅れ"
+      },
+      {
+        "id": "common-063",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "おくれ",
+        "options": [
+          "遅れ",
+          "事実",
+          "試験項目",
+          "資料"
+        ],
+        "answer": 0,
+        "explanation": "おくれ viết là 遅れ: sự chậm, sự trễ.",
+        "group": 2,
+        "sentence": "作業のおくれを報告する。",
+        "word": "遅れ"
+      },
+      {
+        "id": "common-064",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "遅れ",
+        "options": [
+          "組織の中で仕事を分けて受け持つ部門",
+          "細かく詳しい内容",
+          "物事の大きさや強さの度合い",
+          "予定より遅くなること"
+        ],
+        "answer": 3,
+        "explanation": "遅れ (おくれ): sự chậm, sự trễ.",
+        "group": 4,
+        "sentence": "作業の遅れを報告する。",
+        "word": "遅れ"
+      },
+      {
+        "id": "common-065",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "遅延",
+        "options": [
+          "じょうきょう",
+          "ちえん",
+          "ちえう",
+          "じえん"
+        ],
+        "answer": 1,
+        "explanation": "遅延 đọc là ちえん: sự trì hoãn, chậm trễ.",
+        "group": 1,
+        "sentence": "通信の遅延を調べる。",
+        "word": "遅延"
+      },
+      {
+        "id": "common-066",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちえん",
+        "options": [
+          "段階",
+          "輸出",
+          "影響",
+          "遅延"
+        ],
+        "answer": 3,
+        "explanation": "ちえん viết là 遅延: sự trì hoãn, chậm trễ.",
+        "group": 2,
+        "sentence": "通信のちえんを調べる。",
+        "word": "遅延"
+      },
+      {
+        "id": "common-067",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "遅延",
+        "options": [
+          "機械やシステムが果たす働き",
+          "考えられる中でいちばんよいこと",
+          "処理や進行が予定の時刻より遅れること",
+          "物事が進む途中の一つの区切り"
+        ],
+        "answer": 2,
+        "explanation": "遅延 (ちえん): sự trì hoãn, chậm trễ.",
+        "group": 4,
+        "sentence": "通信の遅延を調べる。",
+        "word": "遅延"
+      },
+      {
+        "id": "common-068",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "事実",
+        "options": [
+          "かだい",
+          "じしつ",
+          "じじつ",
+          "しじつ"
+        ],
+        "answer": 2,
+        "explanation": "事実 đọc là じじつ: sự thật.",
+        "group": 1,
+        "sentence": "推測ではなく事実を確認する。",
+        "word": "事実"
+      },
+      {
+        "id": "common-069",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じじつ",
+        "options": [
+          "影響",
+          "事実",
+          "余裕",
+          "進捗率"
+        ],
+        "answer": 1,
+        "explanation": "じじつ viết là 事実: sự thật.",
+        "group": 2,
+        "sentence": "推測ではなくじじつを確認する。",
+        "word": "事実"
+      },
+      {
+        "id": "common-070",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "事実",
+        "options": [
+          "実際に起こったこと",
+          "組織や事業などの大きさ",
+          "商品を外国へ売って送り出すこと",
+          "問題やもめごと"
+        ],
+        "answer": 0,
+        "explanation": "事実 (じじつ): sự thật.",
+        "group": 4,
+        "sentence": "推測ではなく事実を確認する。",
+        "word": "事実"
+      },
+      {
+        "id": "common-071",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進捗率",
+        "options": [
+          "しうちょくりつ",
+          "じんちょくりつ",
+          "しんじょくりつ",
+          "しんちょくりつ"
+        ],
+        "answer": 3,
+        "explanation": "進捗率 đọc là しんちょくりつ: tỷ lệ hoàn thành công việc.",
+        "group": 1,
+        "sentence": "現在の進捗率は八十パーセントです。",
+        "word": "進捗率"
+      },
+      {
+        "id": "common-072",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しんちょくりつ",
+        "options": [
+          "進捗",
+          "トラブル",
+          "進捗率",
+          "数字"
+        ],
+        "answer": 2,
+        "explanation": "しんちょくりつ viết là 進捗率: tỷ lệ hoàn thành công việc.",
+        "group": 2,
+        "sentence": "現在のしんちょくりつは八十パーセントです。",
+        "word": "進捗率"
+      },
+      {
+        "id": "common-073",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進捗率",
+        "options": [
+          "一つの部品や機能を個別に確かめるテスト",
+          "全体に対して完了した作業の割合",
+          "機械やシステムが果たす働き",
+          "時間や能力などにゆとりがあること"
+        ],
+        "answer": 1,
+        "explanation": "進捗率 (しんちょくりつ): tỷ lệ hoàn thành công việc.",
+        "group": 4,
+        "sentence": "現在の進捗率は八十パーセントです。",
+        "word": "進捗率"
+      },
+      {
+        "id": "common-074",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "工程",
+        "options": [
+          "こうでい",
+          "ゆしゅつ",
+          "こうてい",
+          "こおてい"
+        ],
+        "answer": 2,
+        "explanation": "工程 đọc là こうてい: công đoạn, bước trong quy trình.",
+        "group": 1,
+        "sentence": "次の工程へ進む。",
+        "word": "工程"
+      },
+      {
+        "id": "common-075",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "こうてい",
+        "options": [
+          "工程",
+          "件数",
+          "試験項目",
+          "詳細"
+        ],
+        "answer": 0,
+        "explanation": "こうてい viết là 工程: công đoạn, bước trong quy trình.",
+        "group": 2,
+        "sentence": "次のこうていへ進む。",
+        "word": "工程"
+      },
+      {
+        "id": "common-076",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "工程",
+        "options": [
+          "難しさや易しさの度合い",
+          "判断や説明のために使う情報や文書",
+          "これから行うと決めていること",
+          "製造や開発で順番に行う作業の区切り"
+        ],
+        "answer": 3,
+        "explanation": "工程 (こうてい): công đoạn, bước trong quy trình.",
+        "group": 4,
+        "sentence": "次の工程へ進む。",
+        "word": "工程"
+      },
+      {
+        "id": "common-077",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "詳細",
+        "options": [
+          "しょうさい",
+          "しょおさい",
+          "じょうさい",
+          "しようさい"
+        ],
+        "answer": 0,
+        "explanation": "詳細 đọc là しょうさい: chi tiết.",
+        "group": 1,
+        "sentence": "仕様の詳細を確認する。",
+        "word": "詳細"
+      },
+      {
+        "id": "common-078",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しょうさい",
+        "options": [
+          "不足",
+          "経験",
+          "詳細",
+          "解決策"
+        ],
+        "answer": 2,
+        "explanation": "しょうさい viết là 詳細: chi tiết.",
+        "group": 2,
+        "sentence": "仕様のしょうさいを確認する。",
+        "word": "詳細"
+      },
+      {
+        "id": "common-079",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "詳細",
+        "options": [
+          "商品を外国へ売って送り出すこと",
+          "実際に起こったこと",
+          "実際に行ったり体験したりして得たもの",
+          "細かく詳しい内容"
+        ],
+        "answer": 3,
+        "explanation": "詳細 (しょうさい): chi tiết.",
+        "group": 4,
+        "sentence": "仕様の詳細を確認する。",
+        "word": "詳細"
+      },
+      {
+        "id": "common-080",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "影響",
+        "options": [
+          "えいきょお",
+          "えいきよう",
+          "えいきょう",
+          "えいぎょう"
+        ],
+        "answer": 2,
+        "explanation": "影響 đọc là えいきょう: ảnh hưởng.",
+        "group": 1,
+        "sentence": "変更の影響を調査する。",
+        "word": "影響"
+      },
+      {
+        "id": "common-081",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "えいきょう",
+        "options": [
+          "影響",
+          "結合テスト",
+          "遅れ",
+          "注意点"
+        ],
+        "answer": 0,
+        "explanation": "えいきょう viết là 影響: ảnh hưởng.",
+        "group": 2,
+        "sentence": "変更のえいきょうを調査する。",
+        "word": "影響"
+      },
+      {
+        "id": "common-082",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "影響",
+        "options": [
+          "仕事を受け持つことやその人",
+          "ある物事がほかの物事に及ぼす作用",
+          "製造や開発で順番に行う作業の区切り",
+          "判断や説明のために使う情報や文書"
+        ],
+        "answer": 1,
+        "explanation": "影響 (えいきょう): ảnh hưởng.",
+        "group": 4,
+        "sentence": "変更の影響を調査する。",
+        "word": "影響"
+      },
+      {
+        "id": "common-083",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "原因",
+        "options": [
+          "げういん",
+          "げんいう",
+          "げんいん",
+          "こうてい"
+        ],
+        "answer": 2,
+        "explanation": "原因 đọc là げんいん: nguyên nhân.",
+        "group": 1,
+        "sentence": "エラーの原因を調べる。",
+        "word": "原因"
+      },
+      {
+        "id": "common-084",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "げんいん",
+        "options": [
+          "遅れ",
+          "規模",
+          "原因",
+          "最善"
+        ],
+        "answer": 2,
+        "explanation": "げんいん viết là 原因: nguyên nhân.",
+        "group": 2,
+        "sentence": "エラーのげんいんを調べる。",
+        "word": "原因"
+      },
+      {
+        "id": "common-085",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "原因",
+        "options": [
+          "製造や開発で順番に行う作業の区切り",
+          "物事を引き起こしたもと",
+          "新しい製品やシステムを作り出すこと",
+          "仕事を受け持つことやその人"
+        ],
+        "answer": 1,
+        "explanation": "原因 (げんいん): nguyên nhân.",
+        "group": 4,
+        "sentence": "エラーの原因を調べる。",
+        "word": "原因"
+      },
+      {
+        "id": "common-086",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "段階",
+        "options": [
+          "だうかい",
+          "けつごうテスト",
+          "だんかい",
+          "だんがい"
+        ],
+        "answer": 2,
+        "explanation": "段階 đọc là だんかい: giai đoạn, cấp độ.",
+        "group": 1,
+        "sentence": "開発はテストの段階に入った。",
+        "word": "段階"
+      },
+      {
+        "id": "common-087",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "だんかい",
+        "options": [
+          "件数",
+          "トラブル",
+          "試験項目",
+          "段階"
+        ],
+        "answer": 3,
+        "explanation": "だんかい viết là 段階: giai đoạn, cấp độ.",
+        "group": 2,
+        "sentence": "開発はテストのだんかいに入った。",
+        "word": "段階"
+      },
+      {
+        "id": "common-088",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "段階",
+        "options": [
+          "物事が進む途中の一つの区切り",
+          "考えられる中でいちばんよいこと",
+          "組織や事業などの大きさ",
+          "難しさや易しさの度合い"
+        ],
+        "answer": 0,
+        "explanation": "段階 (だんかい): giai đoạn, cấp độ.",
+        "group": 4,
+        "sentence": "開発はテストの段階に入った。",
+        "word": "段階"
+      },
+      {
+        "id": "common-089",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "不足",
+        "options": [
+          "ふそく",
+          "こうてい",
+          "ゆしゅつ",
+          "ふそぐ"
+        ],
+        "answer": 0,
+        "explanation": "不足 đọc là ふそく: sự thiếu hụt.",
+        "group": 1,
+        "sentence": "人手の不足を解消したい。",
+        "word": "不足"
+      },
+      {
+        "id": "common-090",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ふそく",
+        "options": [
+          "課題",
+          "トラブル",
+          "不足",
+          "詳細"
+        ],
+        "answer": 2,
+        "explanation": "ふそく viết là 不足: sự thiếu hụt.",
+        "group": 2,
+        "sentence": "人手のふそくを解消したい。",
+        "word": "不足"
+      },
+      {
+        "id": "common-091",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "不足",
+        "options": [
+          "判断や説明のために使う情報や文書",
+          "必要な量に足りないこと",
+          "製造や開発で順番に行う作業の区切り",
+          "物事が進む途中の一つの区切り"
+        ],
+        "answer": 1,
+        "explanation": "不足 (ふそく): sự thiếu hụt.",
+        "group": 4,
+        "sentence": "人手の不足を解消したい。",
+        "word": "不足"
+      },
+      {
+        "id": "common-092",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "主流",
+        "options": [
+          "じゅりゅう",
+          "しゅりゆう",
+          "しゆりゅう",
+          "しゅりゅう"
+        ],
+        "answer": 3,
+        "explanation": "主流 đọc là しゅりゅう: xu hướng chính, cách làm phổ biến.",
+        "group": 1,
+        "sentence": "今はこの方法が主流だ。",
+        "word": "主流"
+      },
+      {
+        "id": "common-093",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しゅりゅう",
+        "options": [
+          "主流",
+          "原因",
+          "段階",
+          "消化"
+        ],
+        "answer": 0,
+        "explanation": "しゅりゅう viết là 主流: xu hướng chính, cách làm phổ biến.",
+        "group": 2,
+        "sentence": "今はこの方法がしゅりゅうだ。",
+        "word": "主流"
+      },
+      {
+        "id": "common-094",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "主流",
+        "options": [
+          "取り組んで解決すべき問題",
+          "中心となって広く使われている傾向",
+          "必要な量に足りないこと",
+          "気をつける必要がある点"
+        ],
+        "answer": 1,
+        "explanation": "主流 (しゅりゅう): xu hướng chính, cách làm phổ biến.",
+        "group": 4,
+        "sentence": "今はこの方法が主流だ。",
+        "word": "主流"
+      },
+      {
+        "id": "common-095",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "難易度",
+        "options": [
+          "なういど",
+          "おくれ",
+          "こうてい",
+          "なんいど"
+        ],
+        "answer": 3,
+        "explanation": "難易度 đọc là なんいど: mức độ khó dễ.",
+        "group": 1,
+        "sentence": "課題の難易度を確認する。",
+        "word": "難易度"
+      },
+      {
+        "id": "common-096",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "なんいど",
+        "options": [
+          "難易度",
+          "事実",
+          "消化",
+          "統一"
+        ],
+        "answer": 0,
+        "explanation": "なんいど viết là 難易度: mức độ khó dễ.",
+        "group": 2,
+        "sentence": "課題のなんいどを確認する。",
+        "word": "難易度"
+      },
+      {
+        "id": "common-097",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "難易度",
+        "options": [
+          "ある物事がほかの物事に及ぼす作用",
+          "難しさや易しさの度合い",
+          "ある時点での物事のありさま",
+          "これから行うと決めていること"
+        ],
+        "answer": 1,
+        "explanation": "難易度 (なんいど): mức độ khó dễ.",
+        "group": 4,
+        "sentence": "課題の難易度を確認する。",
+        "word": "難易度"
+      },
+      {
+        "id": "common-098",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "規模",
+        "options": [
+          "なんいど",
+          "きぼ",
+          "ぎぼ",
+          "どうにゅう"
+        ],
+        "answer": 1,
+        "explanation": "規模 đọc là きぼ: quy mô.",
+        "group": 1,
+        "sentence": "プロジェクトの規模が大きい。",
+        "word": "規模"
+      },
+      {
+        "id": "common-099",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "きぼ",
+        "options": [
+          "規模",
+          "影響",
+          "機能",
+          "注意点"
+        ],
+        "answer": 0,
+        "explanation": "きぼ viết là 規模: quy mô.",
+        "group": 2,
+        "sentence": "プロジェクトのきぼが大きい。",
+        "word": "規模"
+      },
+      {
+        "id": "common-100",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "規模",
+        "options": [
+          "考えられる中でいちばんよいこと",
+          "気をつける必要がある点",
+          "処理や進行が予定の時刻より遅れること",
+          "組織や事業などの大きさ"
+        ],
+        "answer": 3,
+        "explanation": "規模 (きぼ): quy mô.",
+        "group": 4,
+        "sentence": "プロジェクトの規模が大きい。",
+        "word": "規模"
+      },
+      {
+        "id": "common-101",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "状態",
+        "options": [
+          "じょうたい",
+          "じようたい",
+          "しょうたい",
+          "じょおたい"
+        ],
+        "answer": 0,
+        "explanation": "状態 đọc là じょうたい: trạng thái.",
+        "group": 1,
+        "sentence": "機器の状態を確認する。",
+        "word": "状態"
+      },
+      {
+        "id": "common-102",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じょうたい",
+        "options": [
+          "部署",
+          "可能性",
+          "状態",
+          "輸入"
+        ],
+        "answer": 2,
+        "explanation": "じょうたい viết là 状態: trạng thái.",
+        "group": 2,
+        "sentence": "機器のじょうたいを確認する。",
+        "word": "状態"
+      },
+      {
+        "id": "common-103",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "状態",
+        "options": [
+          "ある時点での物事のありさま",
+          "実際に起こったこと",
+          "物事を引き起こしたもと",
+          "仕事を受け持つことやその人"
+        ],
+        "answer": 0,
+        "explanation": "状態 (じょうたい): trạng thái.",
+        "group": 4,
+        "sentence": "機器の状態を確認する。",
+        "word": "状態"
+      },
+      {
+        "id": "common-104",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "作業",
+        "options": [
+          "さぎよう",
+          "ぼうえき",
+          "さぎょう",
+          "さぎょお"
+        ],
+        "answer": 2,
+        "explanation": "作業 đọc là さぎょう: công việc, thao tác.",
+        "group": 1,
+        "sentence": "今日の作業を始める。",
+        "word": "作業"
+      },
+      {
+        "id": "common-105",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "さぎょう",
+        "options": [
+          "統一",
+          "進捗率",
+          "不足",
+          "作業"
+        ],
+        "answer": 3,
+        "explanation": "さぎょう viết là 作業: công việc, thao tác.",
+        "group": 2,
+        "sentence": "今日のさぎょうを始める。",
+        "word": "作業"
+      },
+      {
+        "id": "common-106",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "作業",
+        "options": [
+          "目的のために行う具体的な仕事",
+          "製造や開発で順番に行う作業の区切り",
+          "判断や説明のために使う情報や文書",
+          "問題やもめごと"
+        ],
+        "answer": 0,
+        "explanation": "作業 (さぎょう): công việc, thao tác.",
+        "group": 4,
+        "sentence": "今日の作業を始める。",
+        "word": "作業"
+      },
+      {
+        "id": "common-107",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "余裕",
+        "options": [
+          "かだい",
+          "たんとう",
+          "よゆう",
+          "よゆお"
+        ],
+        "answer": 2,
+        "explanation": "余裕 đọc là よゆう: thời gian, năng lực hoặc phần dư.",
+        "group": 1,
+        "sentence": "締切までまだ余裕がある。",
+        "word": "余裕"
+      },
+      {
+        "id": "common-108",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "よゆう",
+        "options": [
+          "進捗",
+          "詳細",
+          "余裕",
+          "難易度"
+        ],
+        "answer": 2,
+        "explanation": "よゆう viết là 余裕: thời gian, năng lực hoặc phần dư.",
+        "group": 2,
+        "sentence": "締切までまだよゆうがある。",
+        "word": "余裕"
+      },
+      {
+        "id": "common-109",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "余裕",
+        "options": [
+          "時間や能力などにゆとりがあること",
+          "ばらばらのものを同じ基準にそろえること",
+          "実際に起こったこと",
+          "事柄や案件の数"
+        ],
+        "answer": 0,
+        "explanation": "余裕 (よゆう): thời gian, năng lực hoặc phần dư.",
+        "group": 4,
+        "sentence": "締切までまだ余裕がある。",
+        "word": "余裕"
+      },
+      {
+        "id": "common-110",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "最善",
+        "options": [
+          "だんかい",
+          "ちえん",
+          "さいぜん",
+          "さいぜう"
+        ],
+        "answer": 2,
+        "explanation": "最善 đọc là さいぜん: tốt nhất trong các khả năng.",
+        "group": 1,
+        "sentence": "最善の方法を選ぶ。",
+        "word": "最善"
+      },
+      {
+        "id": "common-111",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "さいぜん",
+        "options": [
+          "遅刻",
+          "可能性",
+          "最善",
+          "状態"
+        ],
+        "answer": 2,
+        "explanation": "さいぜん viết là 最善: tốt nhất trong các khả năng.",
+        "group": 2,
+        "sentence": "さいぜんの方法を選ぶ。",
+        "word": "最善"
+      },
+      {
+        "id": "common-112",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "最善",
+        "options": [
+          "考えられる中でいちばんよいこと",
+          "組織の中で仕事を分けて受け持つ部門",
+          "あることが起こるすぐ前",
+          "テストで確認する個々の内容"
+        ],
+        "answer": 0,
+        "explanation": "最善 (さいぜん): tốt nhất trong các khả năng.",
+        "group": 4,
+        "sentence": "最善の方法を選ぶ。",
+        "word": "最善"
+      },
+      {
+        "id": "common-113",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "締め切り",
+        "options": [
+          "じめきり",
+          "よてい",
+          "しめきり",
+          "しめぎり"
+        ],
+        "answer": 2,
+        "explanation": "締め切り đọc là しめきり: hạn chót.",
+        "group": 1,
+        "sentence": "レポートの締め切りは金曜日だ。",
+        "word": "締め切り"
+      },
+      {
+        "id": "common-114",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しめきり",
+        "options": [
+          "締め切り",
+          "作業",
+          "解決策",
+          "状況"
+        ],
+        "answer": 0,
+        "explanation": "しめきり viết là 締め切り: hạn chót.",
+        "group": 2,
+        "sentence": "レポートのしめきりは金曜日だ。",
+        "word": "締め切り"
+      },
+      {
+        "id": "common-115",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "締め切り",
+        "options": [
+          "目的のために行う具体的な仕事",
+          "予定した仕事などを次々にこなすこと",
+          "作業がどこまで進んだかという状況",
+          "提出や申し込みを終える期限"
+        ],
+        "answer": 3,
+        "explanation": "締め切り (しめきり): hạn chót.",
+        "group": 4,
+        "sentence": "レポートの締め切りは金曜日だ。",
+        "word": "締め切り"
+      },
+      {
+        "id": "common-116",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "直前",
+        "options": [
+          "ちょくぜん",
+          "じょくぜん",
+          "ちょぐぜん",
+          "ちよくぜん"
+        ],
+        "answer": 0,
+        "explanation": "直前 đọc là ちょくぜん: ngay trước thời điểm nào đó.",
+        "group": 1,
+        "sentence": "会議の直前に資料を確認した。",
+        "word": "直前"
+      },
+      {
+        "id": "common-117",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちょくぜん",
+        "options": [
+          "統一",
+          "遅刻",
+          "直前",
+          "消化"
+        ],
+        "answer": 2,
+        "explanation": "ちょくぜん viết là 直前: ngay trước thời điểm nào đó.",
+        "group": 2,
+        "sentence": "会議のちょくぜんに資料を確認した。",
+        "word": "直前"
+      },
+      {
+        "id": "common-118",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "直前",
+        "options": [
+          "問題やもめごと",
+          "あることが起こるすぐ前",
+          "仕事を受け持つことやその人",
+          "周囲も含めた物事の成り行きや様子"
+        ],
+        "answer": 1,
+        "explanation": "直前 (ちょくぜん): ngay trước thời điểm nào đó.",
+        "group": 4,
+        "sentence": "会議の直前に資料を確認した。",
+        "word": "直前"
+      },
+      {
+        "id": "common-119",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "遅刻",
+        "options": [
+          "ゆにゅう",
+          "ちこく",
+          "ちこぐ",
+          "じこく"
+        ],
+        "answer": 1,
+        "explanation": "遅刻 đọc là ちこく: việc đến muộn.",
+        "group": 1,
+        "sentence": "寝坊して会社に遅刻した。",
+        "word": "遅刻"
+      },
+      {
+        "id": "common-120",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちこく",
+        "options": [
+          "規模",
+          "遅刻",
+          "貿易",
+          "工程"
+        ],
+        "answer": 1,
+        "explanation": "ちこく viết là 遅刻: việc đến muộn.",
+        "group": 2,
+        "sentence": "寝坊して会社にちこくした。",
+        "word": "遅刻"
+      },
+      {
+        "id": "common-121",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "遅刻",
+        "options": [
+          "作業がどこまで進んだかという状況",
+          "物事を引き起こしたもと",
+          "中心となって広く使われている傾向",
+          "決められた時刻より遅く到着すること"
+        ],
+        "answer": 3,
+        "explanation": "遅刻 (ちこく): việc đến muộn.",
+        "group": 4,
+        "sentence": "寝坊して会社に遅刻した。",
+        "word": "遅刻"
+      },
+      {
+        "id": "common-122",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "部署",
+        "options": [
+          "ぶしょ",
+          "ぶじょ",
+          "よてい",
+          "ぶしよ"
+        ],
+        "answer": 0,
+        "explanation": "部署 đọc là ぶしょ: bộ phận, phòng ban.",
+        "group": 1,
+        "sentence": "来月から別の部署で働く。",
+        "word": "部署"
+      },
+      {
+        "id": "common-123",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ぶしょ",
+        "options": [
+          "部署",
+          "貿易",
+          "結合テスト",
+          "段階"
+        ],
+        "answer": 0,
+        "explanation": "ぶしょ viết là 部署: bộ phận, phòng ban.",
+        "group": 2,
+        "sentence": "来月から別のぶしょで働く。",
+        "word": "部署"
+      },
+      {
+        "id": "common-124",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "部署",
+        "options": [
+          "取り組んで解決すべき問題",
+          "問題やもめごと",
+          "目的のために行う具体的な仕事",
+          "組織の中で仕事を分けて受け持つ部門"
+        ],
+        "answer": 3,
+        "explanation": "部署 (ぶしょ): bộ phận, phòng ban.",
+        "group": 4,
+        "sentence": "来月から別の部署で働く。",
+        "word": "部署"
+      },
+      {
+        "id": "common-125",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "資料",
+        "options": [
+          "しりょお",
+          "じりょう",
+          "しりよう",
+          "しりょう"
+        ],
+        "answer": 3,
+        "explanation": "資料 đọc là しりょう: tài liệu.",
+        "group": 1,
+        "sentence": "会議の資料を準備する。",
+        "word": "資料"
+      },
+      {
+        "id": "common-126",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しりょう",
+        "options": [
+          "主流",
+          "注意点",
+          "遅れ",
+          "資料"
+        ],
+        "answer": 3,
+        "explanation": "しりょう viết là 資料: tài liệu.",
+        "group": 2,
+        "sentence": "会議のしりょうを準備する。",
+        "word": "資料"
+      },
+      {
+        "id": "common-127",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "資料",
+        "options": [
+          "周囲も含めた物事の成り行きや様子",
+          "判断や説明のために使う情報や文書",
+          "決められた時刻より遅く到着すること",
+          "物事の大きさや強さの度合い"
+        ],
+        "answer": 1,
+        "explanation": "資料 (しりょう): tài liệu.",
+        "group": 4,
+        "sentence": "会議の資料を準備する。",
+        "word": "資料"
+      },
+      {
+        "id": "common-128",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "導入",
+        "options": [
+          "どおにゅう",
+          "どうにゆう",
+          "どうにゅう",
+          "どうにゅお"
+        ],
+        "answer": 2,
+        "explanation": "導入 đọc là どうにゅう: việc đưa vào sử dụng.",
+        "group": 1,
+        "sentence": "新しいツールの導入を検討する。",
+        "word": "導入"
+      },
+      {
+        "id": "common-129",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "どうにゅう",
+        "options": [
+          "導入",
+          "不足",
+          "輸出",
+          "機能"
+        ],
+        "answer": 0,
+        "explanation": "どうにゅう viết là 導入: việc đưa vào sử dụng.",
+        "group": 2,
+        "sentence": "新しいツールのどうにゅうを検討する。",
+        "word": "導入"
+      },
+      {
+        "id": "common-130",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "導入",
+        "options": [
+          "あることが起こりうる見込み",
+          "時間や能力などにゆとりがあること",
+          "目的のために行う具体的な仕事",
+          "新しい制度や道具を取り入れること"
+        ],
+        "answer": 3,
+        "explanation": "導入 (どうにゅう): việc đưa vào sử dụng.",
+        "group": 4,
+        "sentence": "新しいツールの導入を検討する。",
+        "word": "導入"
+      },
+      {
+        "id": "common-131",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "状況",
+        "options": [
+          "じょおきょう",
+          "しょうきょう",
+          "じようきょう",
+          "じょうきょう"
+        ],
+        "answer": 3,
+        "explanation": "状況 đọc là じょうきょう: tình hình, hoàn cảnh.",
+        "group": 1,
+        "sentence": "現在の状況を報告する。",
+        "word": "状況"
+      },
+      {
+        "id": "common-132",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じょうきょう",
+        "options": [
+          "余裕",
+          "状況",
+          "朝会",
+          "規模"
+        ],
+        "answer": 1,
+        "explanation": "じょうきょう viết là 状況: tình hình, hoàn cảnh.",
+        "group": 2,
+        "sentence": "現在のじょうきょうを報告する。",
+        "word": "状況"
+      },
+      {
+        "id": "common-133",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "状況",
+        "options": [
+          "処理や進行が予定の時刻より遅れること",
+          "周囲も含めた物事の成り行きや様子",
+          "あることが起こりうる見込み",
+          "作業がどこまで進んだかという状況"
+        ],
+        "answer": 1,
+        "explanation": "状況 (じょうきょう): tình hình, hoàn cảnh.",
+        "group": 4,
+        "sentence": "現在の状況を報告する。",
+        "word": "状況"
+      },
+      {
+        "id": "common-134",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "経験",
+        "options": [
+          "げいけん",
+          "けいげん",
+          "けいけん",
+          "けいけう"
+        ],
+        "answer": 2,
+        "explanation": "経験 đọc là けいけん: kinh nghiệm.",
+        "group": 1,
+        "sentence": "彼は開発の経験が豊富だ。",
+        "word": "経験"
+      },
+      {
+        "id": "common-135",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "けいけん",
+        "options": [
+          "経験",
+          "数字",
+          "トラブル",
+          "輸入"
+        ],
+        "answer": 0,
+        "explanation": "けいけん viết là 経験: kinh nghiệm.",
+        "group": 2,
+        "sentence": "彼は開発のけいけんが豊富だ。",
+        "word": "経験"
+      },
+      {
+        "id": "common-136",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "経験",
+        "options": [
+          "決められた時刻より遅く到着すること",
+          "一つの部品や機能を個別に確かめるテスト",
+          "製造や開発で順番に行う作業の区切り",
+          "実際に行ったり体験したりして得たもの"
+        ],
+        "answer": 3,
+        "explanation": "経験 (けいけん): kinh nghiệm.",
+        "group": 4,
+        "sentence": "彼は開発の経験が豊富だ。",
+        "word": "経験"
+      },
+      {
+        "id": "common-137",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "可能性",
+        "options": [
+          "かのうせい",
+          "かのおせい",
+          "がのうせい",
+          "ぼうえき"
+        ],
+        "answer": 0,
+        "explanation": "可能性 đọc là かのうせい: khả năng có thể xảy ra.",
+        "group": 1,
+        "sentence": "予定が変わる可能性がある。",
+        "word": "可能性"
+      },
+      {
+        "id": "common-138",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かのうせい",
+        "options": [
+          "件数",
+          "可能性",
+          "トラブル",
+          "開発"
+        ],
+        "answer": 1,
+        "explanation": "かのうせい viết là 可能性: khả năng có thể xảy ra.",
+        "group": 2,
+        "sentence": "予定が変わるかのうせいがある。",
+        "word": "可能性"
+      },
+      {
+        "id": "common-139",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "可能性",
+        "options": [
+          "ある物事がほかの物事に及ぼす作用",
+          "機械やシステムが果たす働き",
+          "あることが起こりうる見込み",
+          "予定より遅くなること"
+        ],
+        "answer": 2,
+        "explanation": "可能性 (かのうせい): khả năng có thể xảy ra.",
+        "group": 4,
+        "sentence": "予定が変わる可能性がある。",
+        "word": "可能性"
+      },
+      {
+        "id": "common-140",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "注文する",
+        "options": [
+          "ちゆうもんする",
+          "じゅうもんする",
+          "ちゅうもんする",
+          "ちゅおもんする"
+        ],
+        "answer": 2,
+        "explanation": "注文する đọc là ちゅうもんする: đặt mua hàng hoặc gọi món.",
+        "group": 1,
+        "sentence": "店で必要な商品を注文する。",
+        "word": "注文する"
+      },
+      {
+        "id": "common-141",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちゅうもんする",
+        "options": [
+          "注文する",
+          "支援する",
+          "調査する",
+          "回避する"
+        ],
+        "answer": 0,
+        "explanation": "ちゅうもんする viết là 注文する: đặt mua hàng hoặc gọi món.",
+        "group": 2,
+        "sentence": "店で必要な商品をちゅうもんする。",
+        "word": "注文する"
+      },
+      {
+        "id": "common-142",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "注文する",
+        "options": [
+          "必要な作業をすべて終える",
+          "数値を集めて整理し全体の傾向を示す",
+          "商品や料理を頼んで買おうとする",
+          "条件に合うように整える"
+        ],
+        "answer": 2,
+        "explanation": "注文する (ちゅうもんする): đặt mua hàng hoặc gọi món.",
+        "group": 4,
+        "sentence": "店で必要な商品を注文する。",
+        "word": "注文する"
+      },
+      {
+        "id": "common-143",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "発注する",
+        "options": [
+          "はっちゅうする",
+          "はっじゅうする",
+          "ばっちゅうする",
+          "はつちゅうする"
+        ],
+        "answer": 0,
+        "explanation": "発注する đọc là はっちゅうする: đặt hàng với nhà cung cấp.",
+        "group": 1,
+        "sentence": "仕入先に部品を発注する。",
+        "word": "発注する"
+      },
+      {
+        "id": "common-144",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "はっちゅうする",
+        "options": [
+          "提出する",
+          "発注する",
+          "加える",
+          "報告する"
+        ],
+        "answer": 1,
+        "explanation": "はっちゅうする viết là 発注する: đặt hàng với nhà cung cấp.",
+        "group": 2,
+        "sentence": "仕入先に部品をはっちゅうする。",
+        "word": "発注する"
+      },
+      {
+        "id": "common-145",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "発注する",
+        "options": [
+          "商品を倉庫や工場から送り出す",
+          "取引先に商品や仕事の注文を出す",
+          "人に見えないようにする",
+          "あとからさらに足す"
+        ],
+        "answer": 1,
+        "explanation": "発注する (はっちゅうする): đặt hàng với nhà cung cấp.",
+        "group": 4,
+        "sentence": "仕入先に部品を発注する。",
+        "word": "発注する"
+      },
+      {
+        "id": "common-146",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "管理する",
+        "options": [
+          "かんりする",
+          "かうりする",
+          "しゅうせいする",
+          "がんりする"
+        ],
+        "answer": 0,
+        "explanation": "管理する đọc là かんりする: quản lý.",
+        "group": 1,
+        "sentence": "リーダーが進捗を管理する。",
+        "word": "管理する"
+      },
+      {
+        "id": "common-147",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かんりする",
+        "options": [
+          "終了する",
+          "調査する",
+          "管理する",
+          "完了する"
+        ],
+        "answer": 2,
+        "explanation": "かんりする viết là 管理する: quản lý.",
+        "group": 2,
+        "sentence": "リーダーが進捗をかんりする。",
+        "word": "管理する"
+      },
+      {
+        "id": "common-148",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "管理する",
+        "options": [
+          "物事を整えて適切に保つ",
+          "物事を先へ運ぶ",
+          "商品や料理を頼んで買おうとする",
+          "必要な作業をすべて終える"
+        ],
+        "answer": 0,
+        "explanation": "管理する (かんりする): quản lý.",
+        "group": 4,
+        "sentence": "リーダーが進捗を管理する。",
+        "word": "管理する"
+      },
+      {
+        "id": "common-149",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "準備する",
+        "options": [
+          "じゅんびする",
+          "じゆんびする",
+          "しゅんびする",
+          "じゅうびする"
+        ],
+        "answer": 0,
+        "explanation": "準備する đọc là じゅんびする: chuẩn bị.",
+        "group": 1,
+        "sentence": "会議の資料を準備する。",
+        "word": "準備する"
+      },
+      {
+        "id": "common-150",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じゅんびする",
+        "options": [
+          "準備する",
+          "共有する",
+          "対応する",
+          "依存する"
+        ],
+        "answer": 0,
+        "explanation": "じゅんびする viết là 準備する: chuẩn bị.",
+        "group": 2,
+        "sentence": "会議の資料をじゅんびする。",
+        "word": "準備する"
+      },
+      {
+        "id": "common-151",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "準備する",
+        "options": [
+          "必要なものを前もってそろえる",
+          "範囲をそれだけに制限する",
+          "商品を倉庫や工場から送り出す",
+          "取引先に商品や仕事の注文を出す"
+        ],
+        "answer": 0,
+        "explanation": "準備する (じゅんびする): chuẩn bị.",
+        "group": 4,
+        "sentence": "会議の資料を準備する。",
+        "word": "準備する"
+      },
+      {
+        "id": "common-152",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "実施する",
+        "options": [
+          "じっじする",
+          "しっしする",
+          "じっしする",
+          "じつしする"
+        ],
+        "answer": 2,
+        "explanation": "実施する đọc là じっしする: thực hiện, tiến hành.",
+        "group": 1,
+        "sentence": "明日、単体テストを実施する。",
+        "word": "実施する"
+      },
+      {
+        "id": "common-153",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じっしする",
+        "options": [
+          "実施する",
+          "回避する",
+          "慌てる",
+          "限る"
+        ],
+        "answer": 0,
+        "explanation": "じっしする viết là 実施する: thực hiện, tiến hành.",
+        "group": 2,
+        "sentence": "明日、単体テストをじっしする。",
+        "word": "実施する"
+      },
+      {
+        "id": "common-154",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "実施する",
+        "options": [
+          "取引先に商品や仕事の注文を出す",
+          "計画したことを実際に行う",
+          "必要なものを前もってそろえる",
+          "続いていたことが終わる"
+        ],
+        "answer": 1,
+        "explanation": "実施する (じっしする): thực hiện, tiến hành.",
+        "group": 4,
+        "sentence": "明日、単体テストを実施する。",
+        "word": "実施する"
+      },
+      {
+        "id": "common-155",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進める",
+        "options": [
+          "けんとうする",
+          "たいおうする",
+          "すすめる",
+          "ぞういんする"
+        ],
+        "answer": 2,
+        "explanation": "進める đọc là すすめる: tiến hành, đẩy tiến độ.",
+        "group": 1,
+        "sentence": "計画に沿って開発を進める。",
+        "word": "進める"
+      },
+      {
+        "id": "common-156",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "すすめる",
+        "options": [
+          "提出する",
+          "管理する",
+          "加える",
+          "進める"
+        ],
+        "answer": 3,
+        "explanation": "すすめる viết là 進める: tiến hành, đẩy tiến độ.",
+        "group": 2,
+        "sentence": "計画に沿って開発をすすめる。",
+        "word": "進める"
+      },
+      {
+        "id": "common-157",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進める",
+        "options": [
+          "危険や問題を避ける",
+          "物事を整えて適切に保つ",
+          "物事を先へ運ぶ",
+          "文章や動画を整理して作り直す"
+        ],
+        "answer": 2,
+        "explanation": "進める (すすめる): tiến hành, đẩy tiến độ.",
+        "group": 4,
+        "sentence": "計画に沿って開発を進める。",
+        "word": "進める"
+      },
+      {
+        "id": "common-158",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "共有する",
+        "options": [
+          "きようゆうする",
+          "きょおゆうする",
+          "きょうゆうする",
+          "ぎょうゆうする"
+        ],
+        "answer": 2,
+        "explanation": "共有する đọc là きょうゆうする: chia sẻ, cùng có thông tin.",
+        "group": 1,
+        "sentence": "注意点をチームで共有する。",
+        "word": "共有する"
+      },
+      {
+        "id": "common-159",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "きょうゆうする",
+        "options": [
+          "終了する",
+          "残業する",
+          "発注する",
+          "共有する"
+        ],
+        "answer": 3,
+        "explanation": "きょうゆうする viết là 共有する: chia sẻ, cùng có thông tin.",
+        "group": 2,
+        "sentence": "注意点をチームできょうゆうする。",
+        "word": "共有する"
+      },
+      {
+        "id": "common-160",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "共有する",
+        "options": [
+          "状況や相手に応じて行動する",
+          "情報などを複数の人が共通に持つ",
+          "あとからさらに足す",
+          "間違っている部分を直す"
+        ],
+        "answer": 1,
+        "explanation": "共有する (きょうゆうする): chia sẻ, cùng có thông tin.",
+        "group": 4,
+        "sentence": "注意点をチームで共有する。",
+        "word": "共有する"
+      },
+      {
+        "id": "common-161",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "完了する",
+        "options": [
+          "かうりょうする",
+          "かんりようする",
+          "がんりょうする",
+          "かんりょうする"
+        ],
+        "answer": 3,
+        "explanation": "完了する đọc là かんりょうする: hoàn tất.",
+        "group": 1,
+        "sentence": "今日中に作業を完了する。",
+        "word": "完了する"
+      },
+      {
+        "id": "common-162",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かんりょうする",
+        "options": [
+          "完了する",
+          "管理する",
+          "追加する",
+          "回避する"
+        ],
+        "answer": 0,
+        "explanation": "かんりょうする viết là 完了する: hoàn tất.",
+        "group": 2,
+        "sentence": "今日中に作業をかんりょうする。",
+        "word": "完了する"
+      },
+      {
+        "id": "common-163",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "完了する",
+        "options": [
+          "考えた案を相手に示す",
+          "急なことに落ち着きを失う",
+          "必要な作業をすべて終える",
+          "計画したことを実際に行う"
+        ],
+        "answer": 2,
+        "explanation": "完了する (かんりょうする): hoàn tất.",
+        "group": 4,
+        "sentence": "今日中に作業を完了する。",
+        "word": "完了する"
+      },
+      {
+        "id": "common-164",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "残業する",
+        "options": [
+          "ざうぎょうする",
+          "ざんぎょうする",
+          "ざんぎょおする",
+          "ざんぎようする"
+        ],
+        "answer": 1,
+        "explanation": "残業する đọc là ざんぎょうする: làm thêm giờ.",
+        "group": 1,
+        "sentence": "納期が近いので今日は残業する。",
+        "word": "残業する"
+      },
+      {
+        "id": "common-165",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ざんぎょうする",
+        "options": [
+          "残業する",
+          "返品する",
+          "提案する",
+          "支援する"
+        ],
+        "answer": 0,
+        "explanation": "ざんぎょうする viết là 残業する: làm thêm giờ.",
+        "group": 2,
+        "sentence": "納期が近いので今日はざんぎょうする。",
+        "word": "残業する"
+      },
+      {
+        "id": "common-166",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "残業する",
+        "options": [
+          "決められた勤務時間を過ぎて働く",
+          "条件に合うように整える",
+          "あとからさらに足す",
+          "急なことに落ち着きを失う"
+        ],
+        "answer": 0,
+        "explanation": "残業する (ざんぎょうする): làm thêm giờ.",
+        "group": 4,
+        "sentence": "納期が近いので今日は残業する。",
+        "word": "残業する"
+      },
+      {
+        "id": "common-167",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "相談する",
+        "options": [
+          "そうだうする",
+          "そおだんする",
+          "ていしゅつする",
+          "そうだんする"
+        ],
+        "answer": 3,
+        "explanation": "相談する đọc là そうだんする: trao đổi để xin ý kiến.",
+        "group": 1,
+        "sentence": "困ったら先輩に相談する。",
+        "word": "相談する"
+      },
+      {
+        "id": "common-168",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "そうだんする",
+        "options": [
+          "残業する",
+          "統計する",
+          "加える",
+          "相談する"
+        ],
+        "answer": 3,
+        "explanation": "そうだんする viết là 相談する: trao đổi để xin ý kiến.",
+        "group": 2,
+        "sentence": "困ったら先輩にそうだんする。",
+        "word": "相談する"
+      },
+      {
+        "id": "common-169",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "相談する",
+        "options": [
+          "結果や状況を相手に知らせる",
+          "人に見えないようにする",
+          "危険や問題を避ける",
+          "問題について相手と話して意見を求める"
+        ],
+        "answer": 3,
+        "explanation": "相談する (そうだんする): trao đổi để xin ý kiến.",
+        "group": 4,
+        "sentence": "困ったら先輩に相談する。",
+        "word": "相談する"
+      },
+      {
+        "id": "common-170",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "隠す",
+        "options": [
+          "かいひする",
+          "かぐす",
+          "かくす",
+          "がくす"
+        ],
+        "answer": 2,
+        "explanation": "隠す đọc là かくす: giấu, che giấu.",
+        "group": 1,
+        "sentence": "ミスを隠すのはよくない。",
+        "word": "隠す"
+      },
+      {
+        "id": "common-171",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かくす",
+        "options": [
+          "隠す",
+          "追加する",
+          "加える",
+          "調査する"
+        ],
+        "answer": 0,
+        "explanation": "かくす viết là 隠す: giấu, che giấu.",
+        "group": 2,
+        "sentence": "ミスをかくすのはよくない。",
+        "word": "隠す"
+      },
+      {
+        "id": "common-172",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "隠す",
+        "options": [
+          "事実を明らかにするために調べる",
+          "人に見えないようにする",
+          "あとからさらに足す",
+          "すでにあるものに別のものを足す"
+        ],
+        "answer": 1,
+        "explanation": "隠す (かくす): giấu, che giấu.",
+        "group": 4,
+        "sentence": "ミスを隠すのはよくない。",
+        "word": "隠す"
+      },
+      {
+        "id": "common-173",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "対応する",
+        "options": [
+          "だいおうする",
+          "かいひする",
+          "たいおうする",
+          "たいおおする"
+        ],
+        "answer": 2,
+        "explanation": "対応する đọc là たいおうする: ứng phó, xử lý phù hợp.",
+        "group": 1,
+        "sentence": "お客様の問い合わせに対応する。",
+        "word": "対応する"
+      },
+      {
+        "id": "common-174",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "たいおうする",
+        "options": [
+          "対応する",
+          "完了する",
+          "追加する",
+          "隠す"
+        ],
+        "answer": 0,
+        "explanation": "たいおうする viết là 対応する: ứng phó, xử lý phù hợp.",
+        "group": 2,
+        "sentence": "お客様の問い合わせにたいおうする。",
+        "word": "対応する"
+      },
+      {
+        "id": "common-175",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "対応する",
+        "options": [
+          "物事を整えて適切に保つ",
+          "必要な作業をすべて終える",
+          "状況や相手に応じて行動する",
+          "人に見えないようにする"
+        ],
+        "answer": 2,
+        "explanation": "対応する (たいおうする): ứng phó, xử lý phù hợp.",
+        "group": 4,
+        "sentence": "お客様の問い合わせに対応する。",
+        "word": "対応する"
+      },
+      {
+        "id": "common-176",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "終了する",
+        "options": [
+          "じゅうりょうする",
+          "しゅおりょうする",
+          "しゆうりょうする",
+          "しゅうりょうする"
+        ],
+        "answer": 3,
+        "explanation": "終了する đọc là しゅうりょうする: kết thúc.",
+        "group": 1,
+        "sentence": "五時に会議が終了する。",
+        "word": "終了する"
+      },
+      {
+        "id": "common-177",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しゅうりょうする",
+        "options": [
+          "報告する",
+          "終了する",
+          "提出する",
+          "相談する"
+        ],
+        "answer": 1,
+        "explanation": "しゅうりょうする viết là 終了する: kết thúc.",
+        "group": 2,
+        "sentence": "五時に会議がしゅうりょうする。",
+        "word": "終了する"
+      },
+      {
+        "id": "common-178",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "終了する",
+        "options": [
+          "書類などを決められた相手に出す",
+          "決められた勤務時間を過ぎて働く",
+          "買った商品を店に返す",
+          "続いていたことが終わる"
+        ],
+        "answer": 3,
+        "explanation": "終了する (しゅうりょうする): kết thúc.",
+        "group": 4,
+        "sentence": "五時に会議が終了する。",
+        "word": "終了する"
+      },
+      {
+        "id": "common-179",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "提出する",
+        "options": [
+          "ていしゆつする",
+          "ていじゅつする",
+          "ていしゅつする",
+          "でいしゅつする"
+        ],
+        "answer": 2,
+        "explanation": "提出する đọc là ていしゅつする: nộp, trình tài liệu.",
+        "group": 1,
+        "sentence": "レポートを先生に提出する。",
+        "word": "提出する"
+      },
+      {
+        "id": "common-180",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ていしゅつする",
+        "options": [
+          "残業する",
+          "隠す",
+          "進行する",
+          "提出する"
+        ],
+        "answer": 3,
+        "explanation": "ていしゅつする viết là 提出する: nộp, trình tài liệu.",
+        "group": 2,
+        "sentence": "レポートを先生にていしゅつする。",
+        "word": "提出する"
+      },
+      {
+        "id": "common-181",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "提出する",
+        "options": [
+          "情報などを複数の人が共通に持つ",
+          "ほかのものに頼って成り立つ",
+          "決められた勤務時間を過ぎて働く",
+          "書類などを決められた相手に出す"
+        ],
+        "answer": 3,
+        "explanation": "提出する (ていしゅつする): nộp, trình tài liệu.",
+        "group": 4,
+        "sentence": "レポートを先生に提出する。",
+        "word": "提出する"
+      },
+      {
+        "id": "common-182",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "報告する",
+        "options": [
+          "そうだんする",
+          "ほおこくする",
+          "ほうこぐする",
+          "ほうこくする"
+        ],
+        "answer": 3,
+        "explanation": "報告する đọc là ほうこくする: báo cáo.",
+        "group": 1,
+        "sentence": "作業の遅れをリーダーに報告する。",
+        "word": "報告する"
+      },
+      {
+        "id": "common-183",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ほうこくする",
+        "options": [
+          "追加する",
+          "統計する",
+          "報告する",
+          "対応する"
+        ],
+        "answer": 2,
+        "explanation": "ほうこくする viết là 報告する: báo cáo.",
+        "group": 2,
+        "sentence": "作業の遅れをリーダーにほうこくする。",
+        "word": "報告する"
+      },
+      {
+        "id": "common-184",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "報告する",
+        "options": [
+          "数値を集めて整理し全体の傾向を示す",
+          "結果や状況を相手に知らせる",
+          "事実を明らかにするために調べる",
+          "商品や料理を頼んで買おうとする"
+        ],
+        "answer": 1,
+        "explanation": "報告する (ほうこくする): báo cáo.",
+        "group": 4,
+        "sentence": "作業の遅れをリーダーに報告する。",
+        "word": "報告する"
+      },
+      {
+        "id": "common-185",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "依存する",
+        "options": [
+          "互いに協力して働く",
+          "働く人の数を増やす",
+          "物事が先へ進んでいく",
+          "ほかのものに頼って成り立つ"
+        ],
+        "answer": 3,
+        "explanation": "依存する (いぞんする): phụ thuộc, dựa vào. いぞんする và いそんする đều được dùng.",
+        "group": 4,
+        "sentence": "この機能は外部システムに依存する。",
+        "word": "依存する"
+      },
+      {
+        "id": "common-186",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "調整する",
+        "options": [
+          "ちょうせいする",
+          "ちょおせいする",
+          "ちようせいする",
+          "じょうせいする"
+        ],
+        "answer": 0,
+        "explanation": "調整する đọc là ちょうせいする: điều chỉnh.",
+        "group": 1,
+        "sentence": "会議の日程を調整する。",
+        "word": "調整する"
+      },
+      {
+        "id": "common-187",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちょうせいする",
+        "options": [
+          "編集する",
+          "調整する",
+          "進行する",
+          "調査する"
+        ],
+        "answer": 1,
+        "explanation": "ちょうせいする viết là 調整する: điều chỉnh.",
+        "group": 2,
+        "sentence": "会議の日程をちょうせいする。",
+        "word": "調整する"
+      },
+      {
+        "id": "common-188",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "調整する",
+        "options": [
+          "物事が先へ進んでいく",
+          "条件に合うように整える",
+          "危険や問題を避ける",
+          "続いていたことが終わる"
+        ],
+        "answer": 1,
+        "explanation": "調整する (ちょうせいする): điều chỉnh.",
+        "group": 4,
+        "sentence": "会議の日程を調整する。",
+        "word": "調整する"
+      },
+      {
+        "id": "common-189",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "回避する",
+        "options": [
+          "がいひする",
+          "じゅんびする",
+          "ちょうせいする",
+          "かいひする"
+        ],
+        "answer": 3,
+        "explanation": "回避する đọc là かいひする: tránh, né.",
+        "group": 1,
+        "sentence": "事前の確認でトラブルを回避する。",
+        "word": "回避する"
+      },
+      {
+        "id": "common-190",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かいひする",
+        "options": [
+          "回避する",
+          "支援する",
+          "加える",
+          "発注する"
+        ],
+        "answer": 0,
+        "explanation": "かいひする viết là 回避する: tránh, né.",
+        "group": 2,
+        "sentence": "事前の確認でトラブルをかいひする。",
+        "word": "回避する"
+      },
+      {
+        "id": "common-191",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "回避する",
+        "options": [
+          "情報などを複数の人が共通に持つ",
+          "書類などを決められた相手に出す",
+          "間違っている部分を直す",
+          "危険や問題を避ける"
+        ],
+        "answer": 3,
+        "explanation": "回避する (かいひする): tránh, né.",
+        "group": 4,
+        "sentence": "事前の確認でトラブルを回避する。",
+        "word": "回避する"
+      },
+      {
+        "id": "common-192",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "調査する",
+        "options": [
+          "じょうさする",
+          "ちょおさする",
+          "ちようさする",
+          "ちょうさする"
+        ],
+        "answer": 3,
+        "explanation": "調査する đọc là ちょうさする: điều tra, khảo sát.",
+        "group": 1,
+        "sentence": "エラーの原因を調査する。",
+        "word": "調査する"
+      },
+      {
+        "id": "common-193",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ちょうさする",
+        "options": [
+          "提出する",
+          "進める",
+          "調査する",
+          "依存する"
+        ],
+        "answer": 2,
+        "explanation": "ちょうさする viết là 調査する: điều tra, khảo sát.",
+        "group": 2,
+        "sentence": "エラーの原因をちょうさする。",
+        "word": "調査する"
+      },
+      {
+        "id": "common-194",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "調査する",
+        "options": [
+          "数値を集めて整理し全体の傾向を示す",
+          "情報などを複数の人が共通に持つ",
+          "事実を明らかにするために調べる",
+          "物事が先へ進んでいく"
+        ],
+        "answer": 2,
+        "explanation": "調査する (ちょうさする): điều tra, khảo sát.",
+        "group": 4,
+        "sentence": "エラーの原因を調査する。",
+        "word": "調査する"
+      },
+      {
+        "id": "common-195",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "取り戻す",
+        "options": [
+          "きょうゆうする",
+          "かぎる",
+          "とりもどす",
+          "どりもどす"
+        ],
+        "answer": 2,
+        "explanation": "取り戻す đọc là とりもどす: lấy lại, khôi phục.",
+        "group": 1,
+        "sentence": "バックアップからデータを取り戻す。",
+        "word": "取り戻す"
+      },
+      {
+        "id": "common-196",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "とりもどす",
+        "options": [
+          "終了する",
+          "頼む",
+          "取り戻す",
+          "対応する"
+        ],
+        "answer": 2,
+        "explanation": "とりもどす viết là 取り戻す: lấy lại, khôi phục.",
+        "group": 2,
+        "sentence": "バックアップからデータをとりもどす。",
+        "word": "取り戻す"
+      },
+      {
+        "id": "common-197",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "取り戻す",
+        "options": [
+          "活動や仕事を助ける",
+          "ほかのものに頼って成り立つ",
+          "人に見えないようにする",
+          "失ったものを再び手に入れる"
+        ],
+        "answer": 3,
+        "explanation": "取り戻す (とりもどす): lấy lại, khôi phục.",
+        "group": 4,
+        "sentence": "バックアップからデータを取り戻す。",
+        "word": "取り戻す"
+      },
+      {
+        "id": "common-198",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "限る",
+        "options": [
+          "かぎる",
+          "たいおうする",
+          "あわてる",
+          "がぎる"
+        ],
+        "answer": 0,
+        "explanation": "限る đọc là かぎる: giới hạn.",
+        "group": 1,
+        "sentence": "参加者を十人に限る。",
+        "word": "限る"
+      },
+      {
+        "id": "common-199",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かぎる",
+        "options": [
+          "共有する",
+          "準備する",
+          "修正する",
+          "限る"
+        ],
+        "answer": 3,
+        "explanation": "かぎる viết là 限る: giới hạn.",
+        "group": 2,
+        "sentence": "参加者を十人にかぎる。",
+        "word": "限る"
+      },
+      {
+        "id": "common-200",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "限る",
+        "options": [
+          "範囲をそれだけに制限する",
+          "急なことに落ち着きを失う",
+          "必要なものを前もってそろえる",
+          "人に見えないようにする"
+        ],
+        "answer": 0,
+        "explanation": "限る (かぎる): giới hạn.",
+        "group": 4,
+        "sentence": "参加者を十人に限る。",
+        "word": "限る"
+      },
+      {
+        "id": "common-201",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進行する",
+        "options": [
+          "じんこうする",
+          "しんこうする",
+          "しうこうする",
+          "しんこおする"
+        ],
+        "answer": 1,
+        "explanation": "進行する đọc là しんこうする: diễn tiến, tiến hành.",
+        "group": 1,
+        "sentence": "会議は予定どおり進行する。",
+        "word": "進行する"
+      },
+      {
+        "id": "common-202",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しんこうする",
+        "options": [
+          "完了する",
+          "進行する",
+          "回避する",
+          "発注する"
+        ],
+        "answer": 1,
+        "explanation": "しんこうする viết là 進行する: diễn tiến, tiến hành.",
+        "group": 2,
+        "sentence": "会議は予定どおりしんこうする。",
+        "word": "進行する"
+      },
+      {
+        "id": "common-203",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "進行する",
+        "options": [
+          "互いに協力して働く",
+          "危険や問題を避ける",
+          "物事が先へ進んでいく",
+          "範囲をそれだけに制限する"
+        ],
+        "answer": 2,
+        "explanation": "進行する (しんこうする): diễn tiến, tiến hành.",
+        "group": 4,
+        "sentence": "会議は予定どおり進行する。",
+        "word": "進行する"
+      },
+      {
+        "id": "common-204",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "増員する",
+        "options": [
+          "ぞおいんする",
+          "そうだんする",
+          "ぞういうする",
+          "ぞういんする"
+        ],
+        "answer": 3,
+        "explanation": "増員する đọc là ぞういんする: tăng nhân sự.",
+        "group": 1,
+        "sentence": "作業が増えたのでスタッフを増員する。",
+        "word": "増員する"
+      },
+      {
+        "id": "common-205",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ぞういんする",
+        "options": [
+          "連携する",
+          "増員する",
+          "発注する",
+          "統計する"
+        ],
+        "answer": 1,
+        "explanation": "ぞういんする viết là 増員する: tăng nhân sự.",
+        "group": 2,
+        "sentence": "作業が増えたのでスタッフをぞういんする。",
+        "word": "増員する"
+      },
+      {
+        "id": "common-206",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "増員する",
+        "options": [
+          "考えた案を相手に示す",
+          "問題について相手と話して意見を求める",
+          "働く人の数を増やす",
+          "続いていたことが終わる"
+        ],
+        "answer": 2,
+        "explanation": "増員する (ぞういんする): tăng nhân sự.",
+        "group": 4,
+        "sentence": "作業が増えたのでスタッフを増員する。",
+        "word": "増員する"
+      },
+      {
+        "id": "common-207",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "統計する",
+        "options": [
+          "どうけいする",
+          "とおけいする",
+          "とうけいする",
+          "とうげいする"
+        ],
+        "answer": 2,
+        "explanation": "統計する đọc là とうけいする: thống kê.",
+        "group": 1,
+        "sentence": "毎月の件数を統計する。",
+        "word": "統計する"
+      },
+      {
+        "id": "common-208",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "とうけいする",
+        "options": [
+          "限る",
+          "検討する",
+          "統計する",
+          "終了する"
+        ],
+        "answer": 2,
+        "explanation": "とうけいする viết là 統計する: thống kê.",
+        "group": 2,
+        "sentence": "毎月の件数をとうけいする。",
+        "word": "統計する"
+      },
+      {
+        "id": "common-209",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "統計する",
+        "options": [
+          "数値を集めて整理し全体の傾向を示す",
+          "人に見えないようにする",
+          "続いていたことが終わる",
+          "すでにあるものに別のものを足す"
+        ],
+        "answer": 0,
+        "explanation": "統計する (とうけいする): thống kê.",
+        "group": 4,
+        "sentence": "毎月の件数を統計する。",
+        "word": "統計する"
+      },
+      {
+        "id": "common-210",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "出荷する",
+        "options": [
+          "しゅつかする",
+          "じゅっかする",
+          "しゆっかする",
+          "しゅっかする"
+        ],
+        "answer": 3,
+        "explanation": "出荷する đọc là しゅっかする: xuất hàng, gửi hàng đi.",
+        "group": 1,
+        "sentence": "注文された商品を出荷する。",
+        "word": "出荷する"
+      },
+      {
+        "id": "common-211",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しゅっかする",
+        "options": [
+          "出荷する",
+          "提案する",
+          "相談する",
+          "進める"
+        ],
+        "answer": 0,
+        "explanation": "しゅっかする viết là 出荷する: xuất hàng, gửi hàng đi.",
+        "group": 2,
+        "sentence": "注文された商品をしゅっかする。",
+        "word": "出荷する"
+      },
+      {
+        "id": "common-212",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "出荷する",
+        "options": [
+          "事実を明らかにするために調べる",
+          "商品を倉庫や工場から送り出す",
+          "必要なものを前もってそろえる",
+          "相手にお願いする"
+        ],
+        "answer": 1,
+        "explanation": "出荷する (しゅっかする): xuất hàng, gửi hàng đi.",
+        "group": 4,
+        "sentence": "注文された商品を出荷する。",
+        "word": "出荷する"
+      },
+      {
+        "id": "common-213",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "編集する",
+        "options": [
+          "へんしゆうする",
+          "へんじゅうする",
+          "へうしゅうする",
+          "へんしゅうする"
+        ],
+        "answer": 3,
+        "explanation": "編集する đọc là へんしゅうする: biên tập, chỉnh sửa nội dung.",
+        "group": 1,
+        "sentence": "撮影した動画を編集する。",
+        "word": "編集する"
+      },
+      {
+        "id": "common-214",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "へんしゅうする",
+        "options": [
+          "編集する",
+          "提案する",
+          "残業する",
+          "回避する"
+        ],
+        "answer": 0,
+        "explanation": "へんしゅうする viết là 編集する: biên tập, chỉnh sửa nội dung.",
+        "group": 2,
+        "sentence": "撮影した動画をへんしゅうする。",
+        "word": "編集する"
+      },
+      {
+        "id": "common-215",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "編集する",
+        "options": [
+          "決められた勤務時間を過ぎて働く",
+          "条件に合うように整える",
+          "状況や相手に応じて行動する",
+          "文章や動画を整理して作り直す"
+        ],
+        "answer": 3,
+        "explanation": "編集する (へんしゅうする): biên tập, chỉnh sửa nội dung.",
+        "group": 4,
+        "sentence": "撮影した動画を編集する。",
+        "word": "編集する"
+      },
+      {
+        "id": "common-216",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "返品する",
+        "options": [
+          "かぎる",
+          "へんぴんする",
+          "へんぴうする",
+          "へうぴんする"
+        ],
+        "answer": 1,
+        "explanation": "返品する đọc là へんぴんする: trả lại hàng đã mua.",
+        "group": 1,
+        "sentence": "壊れていた商品を返品する。",
+        "word": "返品する"
+      },
+      {
+        "id": "common-217",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "へんぴんする",
+        "options": [
+          "返品する",
+          "統計する",
+          "実施する",
+          "相談する"
+        ],
+        "answer": 0,
+        "explanation": "へんぴんする viết là 返品する: trả lại hàng đã mua.",
+        "group": 2,
+        "sentence": "壊れていた商品をへんぴんする。",
+        "word": "返品する"
+      },
+      {
+        "id": "common-218",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "返品する",
+        "options": [
+          "相手にお願いする",
+          "買った商品を店に返す",
+          "必要な作業をすべて終える",
+          "物事が先へ進んでいく"
+        ],
+        "answer": 1,
+        "explanation": "返品する (へんぴんする): trả lại hàng đã mua.",
+        "group": 4,
+        "sentence": "壊れていた商品を返品する。",
+        "word": "返品する"
+      },
+      {
+        "id": "common-219",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "慌てる",
+        "options": [
+          "あわでる",
+          "けんとうする",
+          "あわてる",
+          "とうけいする"
+        ],
+        "answer": 2,
+        "explanation": "慌てる đọc là あわてる: luống cuống, hốt hoảng.",
+        "group": 1,
+        "sentence": "エラーが出ても慌てる必要はない。",
+        "word": "慌てる"
+      },
+      {
+        "id": "common-220",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "あわてる",
+        "options": [
+          "慌てる",
+          "増員する",
+          "取り戻す",
+          "提案する"
+        ],
+        "answer": 0,
+        "explanation": "あわてる viết là 慌てる: luống cuống, hốt hoảng.",
+        "group": 2,
+        "sentence": "エラーが出てもあわてる必要はない。",
+        "word": "慌てる"
+      },
+      {
+        "id": "common-221",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "慌てる",
+        "options": [
+          "急なことに落ち着きを失う",
+          "結果や状況を相手に知らせる",
+          "数値を集めて整理し全体の傾向を示す",
+          "買った商品を店に返す"
+        ],
+        "answer": 0,
+        "explanation": "慌てる (あわてる): luống cuống, hốt hoảng.",
+        "group": 4,
+        "sentence": "エラーが出ても慌てる必要はない。",
+        "word": "慌てる"
+      },
+      {
+        "id": "common-222",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "提案する",
+        "options": [
+          "でいあんする",
+          "ていあうする",
+          "ていあんする",
+          "ほうこくする"
+        ],
+        "answer": 2,
+        "explanation": "提案する đọc là ていあんする: đề xuất.",
+        "group": 1,
+        "sentence": "新しい方法を提案する。",
+        "word": "提案する"
+      },
+      {
+        "id": "common-223",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ていあんする",
+        "options": [
+          "管理する",
+          "提案する",
+          "追加する",
+          "相談する"
+        ],
+        "answer": 1,
+        "explanation": "ていあんする viết là 提案する: đề xuất.",
+        "group": 2,
+        "sentence": "新しい方法をていあんする。",
+        "word": "提案する"
+      },
+      {
+        "id": "common-224",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "提案する",
+        "options": [
+          "考えた案を相手に示す",
+          "商品や料理を頼んで買おうとする",
+          "必要な作業をすべて終える",
+          "ほかのものに頼って成り立つ"
+        ],
+        "answer": 0,
+        "explanation": "提案する (ていあんする): đề xuất.",
+        "group": 4,
+        "sentence": "新しい方法を提案する。",
+        "word": "提案する"
+      },
+      {
+        "id": "common-225",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "連携する",
+        "options": [
+          "れんけいする",
+          "れんげいする",
+          "いぞんする",
+          "れうけいする"
+        ],
+        "answer": 0,
+        "explanation": "連携する đọc là れんけいする: phối hợp, liên kết.",
+        "group": 1,
+        "sentence": "二つの部署が連携する。",
+        "word": "連携する"
+      },
+      {
+        "id": "common-226",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "れんけいする",
+        "options": [
+          "連携する",
+          "加える",
+          "管理する",
+          "統計する"
+        ],
+        "answer": 0,
+        "explanation": "れんけいする viết là 連携する: phối hợp, liên kết.",
+        "group": 2,
+        "sentence": "二つの部署がれんけいする。",
+        "word": "連携する"
+      },
+      {
+        "id": "common-227",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "連携する",
+        "options": [
+          "文章や動画を整理して作り直す",
+          "互いに協力して働く",
+          "計画したことを実際に行う",
+          "物事が先へ進んでいく"
+        ],
+        "answer": 1,
+        "explanation": "連携する (れんけいする): phối hợp, liên kết.",
+        "group": 4,
+        "sentence": "二つの部署が連携する。",
+        "word": "連携する"
+      },
+      {
+        "id": "common-228",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "支援する",
+        "options": [
+          "じえんする",
+          "かくす",
+          "しえんする",
+          "しえうする"
+        ],
+        "answer": 2,
+        "explanation": "支援する đọc là しえんする: hỗ trợ.",
+        "group": 1,
+        "sentence": "会社は新人の学習を支援する。",
+        "word": "支援する"
+      },
+      {
+        "id": "common-229",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しえんする",
+        "options": [
+          "修正する",
+          "完了する",
+          "編集する",
+          "支援する"
+        ],
+        "answer": 3,
+        "explanation": "しえんする viết là 支援する: hỗ trợ.",
+        "group": 2,
+        "sentence": "会社は新人の学習をしえんする。",
+        "word": "支援する"
+      },
+      {
+        "id": "common-230",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "支援する",
+        "options": [
+          "物事を先へ運ぶ",
+          "物事を整えて適切に保つ",
+          "決められた勤務時間を過ぎて働く",
+          "活動や仕事を助ける"
+        ],
+        "answer": 3,
+        "explanation": "支援する (しえんする): hỗ trợ.",
+        "group": 4,
+        "sentence": "会社は新人の学習を支援する。",
+        "word": "支援する"
+      },
+      {
+        "id": "common-231",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "修正する",
+        "options": [
+          "しゆうせいする",
+          "じゅうせいする",
+          "しゅうせいする",
+          "しゅおせいする"
+        ],
+        "answer": 2,
+        "explanation": "修正する đọc là しゅうせいする: sửa lại lỗi hoặc nội dung.",
+        "group": 1,
+        "sentence": "コードの間違いを修正する。",
+        "word": "修正する"
+      },
+      {
+        "id": "common-232",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しゅうせいする",
+        "options": [
+          "修正する",
+          "管理する",
+          "検討する",
+          "終了する"
+        ],
+        "answer": 0,
+        "explanation": "しゅうせいする viết là 修正する: sửa lại lỗi hoặc nội dung.",
+        "group": 2,
+        "sentence": "コードの間違いをしゅうせいする。",
+        "word": "修正する"
+      },
+      {
+        "id": "common-233",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "修正する",
+        "options": [
+          "決められた勤務時間を過ぎて働く",
+          "必要な作業をすべて終える",
+          "間違っている部分を直す",
+          "問題について相手と話して意見を求める"
+        ],
+        "answer": 2,
+        "explanation": "修正する (しゅうせいする): sửa lại lỗi hoặc nội dung.",
+        "group": 4,
+        "sentence": "コードの間違いを修正する。",
+        "word": "修正する"
+      },
+      {
+        "id": "common-234",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "検討する",
+        "options": [
+          "けんどうする",
+          "けんとうする",
+          "けうとうする",
+          "げんとうする"
+        ],
+        "answer": 1,
+        "explanation": "検討する đọc là けんとうする: xem xét, cân nhắc kỹ.",
+        "group": 1,
+        "sentence": "新しいツールの導入を検討する。",
+        "word": "検討する"
+      },
+      {
+        "id": "common-235",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "けんとうする",
+        "options": [
+          "相談する",
+          "検討する",
+          "調整する",
+          "修正する"
+        ],
+        "answer": 1,
+        "explanation": "けんとうする viết là 検討する: xem xét, cân nhắc kỹ.",
+        "group": 2,
+        "sentence": "新しいツールの導入をけんとうする。",
+        "word": "検討する"
+      },
+      {
+        "id": "common-236",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "検討する",
+        "options": [
+          "ほかのものに頼って成り立つ",
+          "続いていたことが終わる",
+          "よく調べて考える",
+          "商品を倉庫や工場から送り出す"
+        ],
+        "answer": 2,
+        "explanation": "検討する (けんとうする): xem xét, cân nhắc kỹ.",
+        "group": 4,
+        "sentence": "新しいツールの導入を検討する。",
+        "word": "検討する"
+      },
+      {
+        "id": "common-237",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "頼む",
+        "options": [
+          "たのむ",
+          "だのむ",
+          "かぎる",
+          "しんこうする"
+        ],
+        "answer": 0,
+        "explanation": "頼む đọc là たのむ: nhờ, yêu cầu.",
+        "group": 1,
+        "sentence": "先輩に確認を頼む。",
+        "word": "頼む"
+      },
+      {
+        "id": "common-238",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "たのむ",
+        "options": [
+          "頼む",
+          "注文する",
+          "進める",
+          "対応する"
+        ],
+        "answer": 0,
+        "explanation": "たのむ viết là 頼む: nhờ, yêu cầu.",
+        "group": 2,
+        "sentence": "先輩に確認をたのむ。",
+        "word": "頼む"
+      },
+      {
+        "id": "common-239",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "頼む",
+        "options": [
+          "間違っている部分を直す",
+          "相手にお願いする",
+          "数値を集めて整理し全体の傾向を示す",
+          "物事を整えて適切に保つ"
+        ],
+        "answer": 1,
+        "explanation": "頼む (たのむ): nhờ, yêu cầu.",
+        "group": 4,
+        "sentence": "先輩に確認を頼む。",
+        "word": "頼む"
+      },
+      {
+        "id": "common-240",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "追加する",
+        "options": [
+          "ついがする",
+          "ついかする",
+          "ほうこくする",
+          "しんこうする"
+        ],
+        "answer": 1,
+        "explanation": "追加する đọc là ついかする: thêm vào.",
+        "group": 1,
+        "sentence": "試験項目を追加する。",
+        "word": "追加する"
+      },
+      {
+        "id": "common-241",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ついかする",
+        "options": [
+          "報告する",
+          "追加する",
+          "増員する",
+          "連携する"
+        ],
+        "answer": 1,
+        "explanation": "ついかする viết là 追加する: thêm vào.",
+        "group": 2,
+        "sentence": "試験項目をついかする。",
+        "word": "追加する"
+      },
+      {
+        "id": "common-242",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "追加する",
+        "options": [
+          "続いていたことが終わる",
+          "決められた勤務時間を過ぎて働く",
+          "あとからさらに足す",
+          "範囲をそれだけに制限する"
+        ],
+        "answer": 2,
+        "explanation": "追加する (ついかする): thêm vào.",
+        "group": 4,
+        "sentence": "試験項目を追加する。",
+        "word": "追加する"
+      },
+      {
+        "id": "common-243",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "加える",
+        "options": [
+          "ぐわえる",
+          "かんりする",
+          "しえんする",
+          "くわえる"
+        ],
+        "answer": 3,
+        "explanation": "加える đọc là くわえる: bổ sung, thêm.",
+        "group": 1,
+        "sentence": "資料に説明を加える。",
+        "word": "加える"
+      },
+      {
+        "id": "common-244",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "くわえる",
+        "options": [
+          "加える",
+          "進める",
+          "連携する",
+          "依存する"
+        ],
+        "answer": 0,
+        "explanation": "くわえる viết là 加える: bổ sung, thêm.",
+        "group": 2,
+        "sentence": "資料に説明をくわえる。",
+        "word": "加える"
+      },
+      {
+        "id": "common-245",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "加える",
+        "options": [
+          "決められた勤務時間を過ぎて働く",
+          "すでにあるものに別のものを足す",
+          "必要なものを前もってそろえる",
+          "ほかのものに頼って成り立つ"
+        ],
+        "answer": 1,
+        "explanation": "加える (くわえる): bổ sung, thêm.",
+        "group": 4,
+        "sentence": "資料に説明を加える。",
+        "word": "加える"
+      },
+      {
+        "id": "common-246",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "個性的",
+        "options": [
+          "こせいでき",
+          "ふくざつ",
+          "こせいてぎ",
+          "こせいてき"
+        ],
+        "answer": 3,
+        "explanation": "個性的 đọc là こせいてき: có cá tính, có nét riêng.",
+        "group": 1,
+        "sentence": "彼のデザインは個性的だ。",
+        "word": "個性的"
+      },
+      {
+        "id": "common-247",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "こせいてき",
+        "options": [
+          "個性的",
+          "複雑",
+          "重大",
+          "簡単"
+        ],
+        "answer": 0,
+        "explanation": "こせいてき viết là 個性的: có cá tính, có nét riêng.",
+        "group": 2,
+        "sentence": "彼のデザインはこせいてきだ。",
+        "word": "個性的"
+      },
+      {
+        "id": "common-248",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "個性的",
+        "options": [
+          "間違いやずれがない様子",
+          "特別ではなく一般的な様子",
+          "難しくなく手軽な様子",
+          "その人や物らしい特徴がある様子"
+        ],
+        "answer": 3,
+        "explanation": "個性的 (こせいてき): có cá tính, có nét riêng.",
+        "group": 4,
+        "sentence": "彼のデザインは個性的だ。",
+        "word": "個性的"
+      },
+      {
+        "id": "common-249",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "具体的",
+        "options": [
+          "ぐたいでき",
+          "ぐたいてぎ",
+          "ぐだいてき",
+          "ぐたいてき"
+        ],
+        "answer": 3,
+        "explanation": "具体的 đọc là ぐたいてき: cụ thể.",
+        "group": 1,
+        "sentence": "具体的な解決策を考える。",
+        "word": "具体的"
+      },
+      {
+        "id": "common-250",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ぐたいてき",
+        "options": [
+          "具体的",
+          "複雑",
+          "簡単",
+          "重大"
+        ],
+        "answer": 0,
+        "explanation": "ぐたいてき viết là 具体的: cụ thể.",
+        "group": 2,
+        "sentence": "ぐたいてきな解決策を考える。",
+        "word": "具体的"
+      },
+      {
+        "id": "common-251",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "具体的",
+        "options": [
+          "条件や目的に合っている様子",
+          "間違いやずれがない様子",
+          "その人や物らしい特徴がある様子",
+          "内容がはっきり示されている様子"
+        ],
+        "answer": 3,
+        "explanation": "具体的 (ぐたいてき): cụ thể.",
+        "group": 4,
+        "sentence": "具体的な解決策を考える。",
+        "word": "具体的"
+      },
+      {
+        "id": "common-252",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "順調",
+        "options": [
+          "しゅんちょう",
+          "じゅんちょう",
+          "じゅうちょう",
+          "じゆんちょう"
+        ],
+        "answer": 1,
+        "explanation": "順調 đọc là じゅんちょう: thuận lợi.",
+        "group": 1,
+        "sentence": "作業は順調だ。",
+        "word": "順調"
+      },
+      {
+        "id": "common-253",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じゅんちょう",
+        "options": [
+          "技術的",
+          "個性的",
+          "複雑",
+          "順調"
+        ],
+        "answer": 3,
+        "explanation": "じゅんちょう viết là 順調: thuận lợi.",
+        "group": 2,
+        "sentence": "作業はじゅんちょうだ。",
+        "word": "順調"
+      },
+      {
+        "id": "common-254",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "順調",
+        "options": [
+          "間違いやずれがない様子",
+          "その人や物らしい特徴がある様子",
+          "多くの要素が入り組んでいる様子",
+          "問題なくうまく進んでいる様子"
+        ],
+        "answer": 3,
+        "explanation": "順調 (じゅんちょう): thuận lợi.",
+        "group": 4,
+        "sentence": "作業は順調だ。",
+        "word": "順調"
+      },
+      {
+        "id": "common-255",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "技術的",
+        "options": [
+          "ぎじゆつてき",
+          "ぎしゅつてき",
+          "ぎじゅつでき",
+          "ぎじゅつてき"
+        ],
+        "answer": 3,
+        "explanation": "技術的 đọc là ぎじゅつてき: về mặt kỹ thuật.",
+        "group": 1,
+        "sentence": "技術的な問題を調査する。",
+        "word": "技術的"
+      },
+      {
+        "id": "common-256",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ぎじゅつてき",
+        "options": [
+          "簡単",
+          "複雑",
+          "個性的",
+          "技術的"
+        ],
+        "answer": 3,
+        "explanation": "ぎじゅつてき viết là 技術的: về mặt kỹ thuật.",
+        "group": 2,
+        "sentence": "ぎじゅつてきな問題を調査する。",
+        "word": "技術的"
+      },
+      {
+        "id": "common-257",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "技術的",
+        "options": [
+          "技術に関係する様子",
+          "内容がはっきり示されている様子",
+          "特別ではなく一般的な様子",
+          "大切で欠かせない様子"
+        ],
+        "answer": 0,
+        "explanation": "技術的 (ぎじゅつてき): về mặt kỹ thuật.",
+        "group": 4,
+        "sentence": "技術的な問題を調査する。",
+        "word": "技術的"
+      },
+      {
+        "id": "common-258",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "重要",
+        "options": [
+          "じゆうよう",
+          "しゅうよう",
+          "じゅうよう",
+          "じゅおよう"
+        ],
+        "answer": 2,
+        "explanation": "重要 đọc là じゅうよう: quan trọng.",
+        "group": 1,
+        "sentence": "これは重要な注意点だ。",
+        "word": "重要"
+      },
+      {
+        "id": "common-259",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じゅうよう",
+        "options": [
+          "個性的",
+          "重要",
+          "技術的",
+          "順調"
+        ],
+        "answer": 1,
+        "explanation": "じゅうよう viết là 重要: quan trọng.",
+        "group": 2,
+        "sentence": "これはじゅうような注意点だ。",
+        "word": "重要"
+      },
+      {
+        "id": "common-260",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "重要",
+        "options": [
+          "問題なくうまく進んでいる様子",
+          "影響が大きく深刻な様子",
+          "大切で欠かせない様子",
+          "難しくなく手軽な様子"
+        ],
+        "answer": 2,
+        "explanation": "重要 (じゅうよう): quan trọng.",
+        "group": 4,
+        "sentence": "これは重要な注意点だ。",
+        "word": "重要"
+      },
+      {
+        "id": "common-261",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "正確",
+        "options": [
+          "せいかぐ",
+          "じゅうだい",
+          "せいかく",
+          "せいがく"
+        ],
+        "answer": 2,
+        "explanation": "正確 đọc là せいかく: chính xác.",
+        "group": 1,
+        "sentence": "正確な数字を報告する。",
+        "word": "正確"
+      },
+      {
+        "id": "common-262",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "せいかく",
+        "options": [
+          "複雑",
+          "正確",
+          "重要",
+          "個性的"
+        ],
+        "answer": 1,
+        "explanation": "せいかく viết là 正確: chính xác.",
+        "group": 2,
+        "sentence": "せいかくな数字を報告する。",
+        "word": "正確"
+      },
+      {
+        "id": "common-263",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "正確",
+        "options": [
+          "その人や物らしい特徴がある様子",
+          "条件や目的に合っている様子",
+          "多くの要素が入り組んでいる様子",
+          "間違いやずれがない様子"
+        ],
+        "answer": 3,
+        "explanation": "正確 (せいかく): chính xác.",
+        "group": 4,
+        "sentence": "正確な数字を報告する。",
+        "word": "正確"
+      },
+      {
+        "id": "common-264",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "複雑",
+        "options": [
+          "ふぐざつ",
+          "じゅうだい",
+          "じゅうよう",
+          "ふくざつ"
+        ],
+        "answer": 3,
+        "explanation": "複雑 đọc là ふくざつ: phức tạp.",
+        "group": 1,
+        "sentence": "この機能は複雑だ。",
+        "word": "複雑"
+      },
+      {
+        "id": "common-265",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ふくざつ",
+        "options": [
+          "正確",
+          "技術的",
+          "複雑",
+          "順調"
+        ],
+        "answer": 2,
+        "explanation": "ふくざつ viết là 複雑: phức tạp.",
+        "group": 2,
+        "sentence": "この機能はふくざつだ。",
+        "word": "複雑"
+      },
+      {
+        "id": "common-266",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "複雑",
+        "options": [
+          "大切で欠かせない様子",
+          "多くの要素が入り組んでいる様子",
+          "内容がはっきり示されている様子",
+          "技術に関係する様子"
+        ],
+        "answer": 1,
+        "explanation": "複雑 (ふくざつ): phức tạp.",
+        "group": 4,
+        "sentence": "この機能は複雑だ。",
+        "word": "複雑"
+      },
+      {
+        "id": "common-267",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "重大",
+        "options": [
+          "しゅうだい",
+          "じゅおだい",
+          "じゆうだい",
+          "じゅうだい"
+        ],
+        "answer": 3,
+        "explanation": "重大 đọc là じゅうだい: nghiêm trọng, hệ trọng.",
+        "group": 1,
+        "sentence": "重大なバグを発見した。",
+        "word": "重大"
+      },
+      {
+        "id": "common-268",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "じゅうだい",
+        "options": [
+          "複雑",
+          "適当",
+          "重大",
+          "技術的"
+        ],
+        "answer": 2,
+        "explanation": "じゅうだい viết là 重大: nghiêm trọng, hệ trọng.",
+        "group": 2,
+        "sentence": "じゅうだいなバグを発見した。",
+        "word": "重大"
+      },
+      {
+        "id": "common-269",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "重大",
+        "options": [
+          "大切で欠かせない様子",
+          "影響が大きく深刻な様子",
+          "技術に関係する様子",
+          "難しくなく手軽な様子"
+        ],
+        "answer": 1,
+        "explanation": "重大 (じゅうだい): nghiêm trọng, hệ trọng.",
+        "group": 4,
+        "sentence": "重大なバグを発見した。",
+        "word": "重大"
+      },
+      {
+        "id": "common-270",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "普通",
+        "options": [
+          "じゅうよう",
+          "ふつお",
+          "じゅうだい",
+          "ふつう"
+        ],
+        "answer": 3,
+        "explanation": "普通 đọc là ふつう: bình thường.",
+        "group": 1,
+        "sentence": "普通の使い方なら問題はない。",
+        "word": "普通"
+      },
+      {
+        "id": "common-271",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ふつう",
+        "options": [
+          "重大",
+          "普通",
+          "具体的",
+          "重要"
+        ],
+        "answer": 1,
+        "explanation": "ふつう viết là 普通: bình thường.",
+        "group": 2,
+        "sentence": "ふつうの使い方なら問題はない。",
+        "word": "普通"
+      },
+      {
+        "id": "common-272",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "普通",
+        "options": [
+          "技術に関係する様子",
+          "特別ではなく一般的な様子",
+          "難しくなく手軽な様子",
+          "多くの要素が入り組んでいる様子"
+        ],
+        "answer": 1,
+        "explanation": "普通 (ふつう): bình thường.",
+        "group": 4,
+        "sentence": "普通の使い方なら問題はない。",
+        "word": "普通"
+      },
+      {
+        "id": "common-273",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "簡単",
+        "options": [
+          "かんたん",
+          "がんたん",
+          "かうたん",
+          "かんだん"
+        ],
+        "answer": 0,
+        "explanation": "簡単 đọc là かんたん: đơn giản, dễ.",
+        "group": 1,
+        "sentence": "これは簡単な作業だ。",
+        "word": "簡単"
+      },
+      {
+        "id": "common-274",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "かんたん",
+        "options": [
+          "簡単",
+          "重大",
+          "具体的",
+          "正確"
+        ],
+        "answer": 0,
+        "explanation": "かんたん viết là 簡単: đơn giản, dễ.",
+        "group": 2,
+        "sentence": "これはかんたんな作業だ。",
+        "word": "簡単"
+      },
+      {
+        "id": "common-275",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "簡単",
+        "options": [
+          "難しくなく手軽な様子",
+          "影響が大きく深刻な様子",
+          "間違いやずれがない様子",
+          "大切で欠かせない様子"
+        ],
+        "answer": 0,
+        "explanation": "簡単 (かんたん): đơn giản, dễ.",
+        "group": 4,
+        "sentence": "これは簡単な作業だ。",
+        "word": "簡単"
+      },
+      {
+        "id": "common-276",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "適当",
+        "options": [
+          "てきとう",
+          "てきどう",
+          "てぎとう",
+          "できとう"
+        ],
+        "answer": 0,
+        "explanation": "適当 đọc là てきとう: phù hợp trong ngữ cảnh này.",
+        "group": 1,
+        "sentence": "目的に適当な方法を選ぶ。",
+        "word": "適当"
+      },
+      {
+        "id": "common-277",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "てきとう",
+        "options": [
+          "正確",
+          "複雑",
+          "適当",
+          "重要"
+        ],
+        "answer": 2,
+        "explanation": "てきとう viết là 適当: phù hợp trong ngữ cảnh này.",
+        "group": 2,
+        "sentence": "目的にてきとうな方法を選ぶ。",
+        "word": "適当"
+      },
+      {
+        "id": "common-278",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "適当",
+        "options": [
+          "条件や目的に合っている様子",
+          "多くの要素が入り組んでいる様子",
+          "その人や物らしい特徴がある様子",
+          "影響が大きく深刻な様子"
+        ],
+        "answer": 0,
+        "explanation": "適当 (てきとう): phù hợp trong ngữ cảnh này. 適当 còn có nghĩa làm qua loa trong ngữ cảnh khác; câu này dùng nghĩa phù hợp.",
+        "group": 4,
+        "sentence": "目的に適当な方法を選ぶ。",
+        "word": "適当"
+      },
+      {
+        "id": "common-279",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "正直に",
+        "options": [
+          "しょうじきに",
+          "しようじきに",
+          "じょうじきに",
+          "しょおじきに"
+        ],
+        "answer": 0,
+        "explanation": "正直に đọc là しょうじきに: một cách thành thật.",
+        "group": 1,
+        "sentence": "問題があれば正直に報告してください。",
+        "word": "正直に"
+      },
+      {
+        "id": "common-280",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しょうじきに",
+        "options": [
+          "時々",
+          "なるべく",
+          "しっかり",
+          "正直に"
+        ],
+        "answer": 3,
+        "explanation": "しょうじきに viết là 正直に: một cách thành thật.",
+        "group": 2,
+        "sentence": "問題があればしょうじきに報告してください。",
+        "word": "正直に"
+      },
+      {
+        "id": "common-281",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "正直に",
+        "options": [
+          "時間をかけず手早く",
+          "まれに、ときおり",
+          "できるだけ",
+          "うそをつかずに"
+        ],
+        "answer": 3,
+        "explanation": "正直に (しょうじきに): một cách thành thật.",
+        "group": 4,
+        "sentence": "問題があれば正直に報告してください。",
+        "word": "正直に"
+      },
+      {
+        "id": "common-282",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "早めに",
+        "options": [
+          "はやめに",
+          "ばやめに",
+          "しょうじきに",
+          "なるべく"
+        ],
+        "answer": 0,
+        "explanation": "早めに đọc là はやめに: sớm hơn, sớm một chút.",
+        "group": 1,
+        "sentence": "資料を早めに提出する。",
+        "word": "早めに"
+      },
+      {
+        "id": "common-283",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "はやめに",
+        "options": [
+          "早めに",
+          "速やかに",
+          "しっかり",
+          "正直に"
+        ],
+        "answer": 0,
+        "explanation": "はやめに viết là 早めに: sớm hơn, sớm một chút.",
+        "group": 2,
+        "sentence": "資料をはやめに提出する。",
+        "word": "早めに"
+      },
+      {
+        "id": "common-284",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "早めに",
+        "options": [
+          "おそらく",
+          "急がず時間をかけて",
+          "ときおり、何度か",
+          "予定や通常より少し早く"
+        ],
+        "answer": 3,
+        "explanation": "早めに (はやめに): sớm hơn, sớm một chút.",
+        "group": 4,
+        "sentence": "資料を早めに提出する。",
+        "word": "早めに"
+      },
+      {
+        "id": "common-285",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "速やかに",
+        "options": [
+          "すみやかに",
+          "ゆっくり",
+          "すみやがに",
+          "たぶん"
+        ],
+        "answer": 0,
+        "explanation": "速やかに đọc là すみやかに: nhanh chóng, kịp thời.",
+        "group": 1,
+        "sentence": "トラブルには速やかに対応する。",
+        "word": "速やかに"
+      },
+      {
+        "id": "common-286",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "すみやかに",
+        "options": [
+          "たまに",
+          "ゆっくり",
+          "なるべく",
+          "速やかに"
+        ],
+        "answer": 3,
+        "explanation": "すみやかに viết là 速やかに: nhanh chóng, kịp thời.",
+        "group": 2,
+        "sentence": "トラブルにはすみやかに対応する。",
+        "word": "速やかに"
+      },
+      {
+        "id": "common-287",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "速やかに",
+        "options": [
+          "急がず時間をかけて",
+          "十分に、きちんと",
+          "時間をかけず手早く",
+          "できるだけ"
+        ],
+        "answer": 2,
+        "explanation": "速やかに (すみやかに): nhanh chóng, kịp thời.",
+        "group": 4,
+        "sentence": "トラブルには速やかに対応する。",
+        "word": "速やかに"
+      },
+      {
+        "id": "common-288",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "すぐに",
+        "options": [
+          "待たずにただちに",
+          "十分に、きちんと",
+          "ときおり、何度か",
+          "急がず時間をかけて"
+        ],
+        "answer": 0,
+        "explanation": "すぐに (すぐに): ngay lập tức.",
+        "group": 4,
+        "sentence": "分からないことはすぐに相談する。",
+        "word": "すぐに"
+      },
+      {
+        "id": "common-289",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ゆっくり",
+        "options": [
+          "できるだけ",
+          "待たずにただちに",
+          "急がず時間をかけて",
+          "おそらく"
+        ],
+        "answer": 2,
+        "explanation": "ゆっくり (ゆっくり): chậm rãi, thong thả.",
+        "group": 4,
+        "sentence": "説明をゆっくり読んでください。",
+        "word": "ゆっくり"
+      },
+      {
+        "id": "common-290",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "たまに",
+        "options": [
+          "おそらく",
+          "できるだけ",
+          "まれに、ときおり",
+          "苦労してようやく"
+        ],
+        "answer": 2,
+        "explanation": "たまに (たまに): thỉnh thoảng, không thường xuyên.",
+        "group": 4,
+        "sentence": "彼はたまに残業する。",
+        "word": "たまに"
+      },
+      {
+        "id": "common-291",
+        "type": "reading",
+        "prompt": "問題1　＿＿＿＿の言葉の読み方として最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "時々",
+        "options": [
+          "とぎどき",
+          "ときどき",
+          "ときどぎ",
+          "どきどき"
+        ],
+        "answer": 1,
+        "explanation": "時々 đọc là ときどき: đôi khi, từng lúc.",
+        "group": 1,
+        "sentence": "このエラーは時々発生する。",
+        "word": "時々"
+      },
+      {
+        "id": "common-292",
+        "type": "kanji",
+        "prompt": "問題2　＿＿＿＿の言葉を漢字で書くとき、最も良いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ときどき",
+        "options": [
+          "ゆっくり",
+          "時々",
+          "速やかに",
+          "早めに"
+        ],
+        "answer": 1,
+        "explanation": "ときどき viết là 時々: đôi khi, từng lúc.",
+        "group": 2,
+        "sentence": "このエラーはときどき発生する。",
+        "word": "時々"
+      },
+      {
+        "id": "common-293",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "時々",
+        "options": [
+          "予定や通常より少し早く",
+          "急がず時間をかけて",
+          "ときおり、何度か",
+          "時間をかけず手早く"
+        ],
+        "answer": 2,
+        "explanation": "時々 (ときどき): đôi khi, từng lúc.",
+        "group": 4,
+        "sentence": "このエラーは時々発生する。",
+        "word": "時々"
+      },
+      {
+        "id": "common-294",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "しっかり",
+        "options": [
+          "待たずにただちに",
+          "意図的に、故意に",
+          "十分に、きちんと",
+          "ときおり、何度か"
+        ],
+        "answer": 2,
+        "explanation": "しっかり (しっかり): kỹ càng, chắc chắn.",
+        "group": 4,
+        "sentence": "要件をしっかり確認する。",
+        "word": "しっかり"
+      },
+      {
+        "id": "common-295",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "なるべく",
+        "options": [
+          "おそらく",
+          "まれに、ときおり",
+          "うそをつかずに",
+          "できるだけ"
+        ],
+        "answer": 3,
+        "explanation": "なるべく (なるべく): cố gắng trong khả năng, càng ... càng tốt.",
+        "group": 4,
+        "sentence": "なるべく早く報告してください。",
+        "word": "なるべく"
+      },
+      {
+        "id": "common-296",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "やっと",
+        "options": [
+          "できるだけ",
+          "ときおり、何度か",
+          "時間をかけず手早く",
+          "苦労してようやく"
+        ],
+        "answer": 3,
+        "explanation": "やっと (やっと): cuối cùng cũng, sau nhiều nỗ lực.",
+        "group": 4,
+        "sentence": "長いテストがやっと終わった。",
+        "word": "やっと"
+      },
+      {
+        "id": "common-297",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "たぶん",
+        "options": [
+          "まれに、ときおり",
+          "十分に、きちんと",
+          "おそらく",
+          "意図的に、故意に"
+        ],
+        "answer": 2,
+        "explanation": "たぶん (たぶん): có lẽ, chắc là.",
+        "group": 4,
+        "sentence": "たぶん明日には完了するでしょう。",
+        "word": "たぶん"
+      },
+      {
+        "id": "common-298",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "わざと",
+        "options": [
+          "急がず時間をかけて",
+          "意図的に、故意に",
+          "予定や通常より少し早く",
+          "時間をかけず手早く"
+        ],
+        "answer": 1,
+        "explanation": "わざと (わざと): cố ý.",
+        "group": 4,
+        "sentence": "確認のためにわざとエラーを発生させた。",
+        "word": "わざと"
+      },
+      {
+        "id": "common-299",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "タイミング",
+        "options": [
+          "処理中に起きる誤り",
+          "物事を行う時機",
+          "商品やサービスへの苦情",
+          "プログラムに含まれる不具合"
+        ],
+        "answer": 1,
+        "explanation": "タイミング (タイミング): thời điểm thích hợp.",
+        "group": 4,
+        "sentence": "報告するタイミングを考える。",
+        "word": "タイミング"
+      },
+      {
+        "id": "common-300",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "コーディング",
+        "options": [
+          "コンピューターに行わせる命令の集まり",
+          "プログラムのコードを書くこと",
+          "処理中に起きる誤り",
+          "処理や考え方の筋道"
+        ],
+        "answer": 1,
+        "explanation": "コーディング (コーディング): việc viết mã chương trình.",
+        "group": 4,
+        "sentence": "設計の後でコーディングを始める。",
+        "word": "コーディング"
+      },
+      {
+        "id": "common-301",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ロジック",
+        "options": [
+          "処理や考え方の筋道",
+          "作業を助ける道具",
+          "独立した機能を持つ構成部分",
+          "集団を構成する一人一人"
+        ],
+        "answer": 0,
+        "explanation": "ロジック (ロジック): logic, cách xử lý có hệ thống.",
+        "group": 4,
+        "sentence": "計算のロジックを確認する。",
+        "word": "ロジック"
+      },
+      {
+        "id": "common-302",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "リーダー",
+        "options": [
+          "プログラムのコードを書くこと",
+          "処理中に起きる誤り",
+          "集団をまとめて導く人",
+          "集団を構成する一人一人"
+        ],
+        "answer": 2,
+        "explanation": "リーダー (リーダー): người lãnh đạo, trưởng nhóm.",
+        "group": 4,
+        "sentence": "リーダーが作業を割り当てる。",
+        "word": "リーダー"
+      },
+      {
+        "id": "common-303",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "メンバー",
+        "options": [
+          "作業を助ける道具",
+          "プログラムに含まれる不具合",
+          "物事を行う時機",
+          "集団を構成する一人一人"
+        ],
+        "answer": 3,
+        "explanation": "メンバー (メンバー): thành viên.",
+        "group": 4,
+        "sentence": "チームのメンバーに相談する。",
+        "word": "メンバー"
+      },
+      {
+        "id": "common-304",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "プログラム",
+        "options": [
+          "処理や考え方の筋道",
+          "コンピューターに行わせる命令の集まり",
+          "同じ目的のために協力する集団",
+          "プログラムに含まれる不具合"
+        ],
+        "answer": 1,
+        "explanation": "プログラム (プログラム): chương trình máy tính.",
+        "group": 4,
+        "sentence": "新しいプログラムを実行する。",
+        "word": "プログラム"
+      },
+      {
+        "id": "common-305",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "チーム",
+        "options": [
+          "処理や考え方の筋道",
+          "同じ目的のために協力する集団",
+          "プログラムのコードを書くこと",
+          "物事を行う時機"
+        ],
+        "answer": 1,
+        "explanation": "チーム (チーム): nhóm cùng làm việc.",
+        "group": 4,
+        "sentence": "チームで情報を共有する。",
+        "word": "チーム"
+      },
+      {
+        "id": "common-306",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "エラー",
+        "options": [
+          "処理や考え方の筋道",
+          "独立した機能を持つ構成部分",
+          "処理中に起きる誤り",
+          "集団を構成する一人一人"
+        ],
+        "answer": 2,
+        "explanation": "エラー (エラー): lỗi trong xử lý hoặc vận hành.",
+        "group": 4,
+        "sentence": "入力のエラーを確認する。",
+        "word": "エラー"
+      },
+      {
+        "id": "common-307",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "クレーム",
+        "options": [
+          "コンピューターに行わせる命令の集まり",
+          "処理や考え方の筋道",
+          "物事を行う時機",
+          "商品やサービスへの苦情"
+        ],
+        "answer": 3,
+        "explanation": "クレーム (クレーム): phản ánh, khiếu nại của khách hàng.",
+        "group": 4,
+        "sentence": "お客様のクレームに対応する。",
+        "word": "クレーム"
+      },
+      {
+        "id": "common-308",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "バグ",
+        "options": [
+          "作業を助ける道具",
+          "処理や考え方の筋道",
+          "プログラムに含まれる不具合",
+          "物事を行う時機"
+        ],
+        "answer": 2,
+        "explanation": "バグ (バグ): lỗi trong chương trình.",
+        "group": 4,
+        "sentence": "テストでバグを発見する。",
+        "word": "バグ"
+      },
+      {
+        "id": "common-309",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "ツール",
+        "options": [
+          "独立した機能を持つ構成部分",
+          "商品やサービスへの苦情",
+          "処理中に起きる誤り",
+          "作業を助ける道具"
+        ],
+        "answer": 3,
+        "explanation": "ツール (ツール): công cụ.",
+        "group": 4,
+        "sentence": "便利なツールを導入する。",
+        "word": "ツール"
+      },
+      {
+        "id": "common-310",
+        "type": "synonym",
+        "prompt": "問題4　＿＿＿＿に意味が最も近いものを、1・2・3・4から一つ選びなさい。",
+        "target": "モジュール",
+        "options": [
+          "商品やサービスへの苦情",
+          "独立した機能を持つ構成部分",
+          "集団を構成する一人一人",
+          "プログラムに含まれる不具合"
+        ],
+        "answer": 1,
+        "explanation": "モジュール (モジュール): mô-đun, bộ phận chức năng.",
+        "group": 4,
+        "sentence": "二つのモジュールを結合する。",
+        "word": "モジュール"
+      },
+      {
+        "id": "common-311",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "海外の商品を国内へ買い入れることを（　）という。",
+        "options": [
+          "出荷する",
+          "返品する",
+          "輸入",
+          "輸出"
+        ],
+        "answer": 2,
+        "explanation": "輸入 là nhập khẩu, đưa hàng nước ngoài vào trong nước.",
+        "group": 3,
+        "word": "輸入"
+      },
+      {
+        "id": "common-312",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "国内の商品を外国へ売ることを（　）という。",
+        "options": [
+          "部署",
+          "輸入",
+          "資料",
+          "輸出"
+        ],
+        "answer": 3,
+        "explanation": "輸出 là xuất khẩu.",
+        "group": 3,
+        "word": "輸出"
+      },
+      {
+        "id": "common-313",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "関数を一つずつ独立して確認するため、（　）を行った。",
+        "options": [
+          "単体テスト",
+          "結合テスト",
+          "貿易",
+          "朝会"
+        ],
+        "answer": 0,
+        "explanation": "単体テスト kiểm thử riêng từng thành phần.",
+        "group": 3,
+        "word": "単体テスト"
+      },
+      {
+        "id": "common-314",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "複数のモジュールを接続し、連携が正しいか（　）で確認した。",
+        "options": [
+          "締め切り",
+          "単体テスト",
+          "結合テスト",
+          "資料"
+        ],
+        "answer": 2,
+        "explanation": "結合テスト kiểm thử các thành phần hoạt động cùng nhau.",
+        "group": 3,
+        "word": "結合テスト"
+      },
+      {
+        "id": "common-315",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "全体のうち完了した作業の割合を、（　）で示す。",
+        "options": [
+          "部署",
+          "件数",
+          "原因",
+          "進捗率"
+        ],
+        "answer": 3,
+        "explanation": "進捗率 là tỷ lệ hoàn thành so với tổng công việc.",
+        "group": 3,
+        "word": "進捗率"
+      },
+      {
+        "id": "common-316",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "問い合わせが何件あったか、その（　）を数える。",
+        "options": [
+          "件数",
+          "難易度",
+          "主流",
+          "タイミング"
+        ],
+        "answer": 0,
+        "explanation": "件数 là số vụ hoặc số trường hợp.",
+        "group": 3,
+        "word": "件数"
+      },
+      {
+        "id": "common-317",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "百という数を表す「100」は、三つの（　）で書かれている。",
+        "options": [
+          "部署",
+          "解決策",
+          "工程",
+          "数字"
+        ],
+        "answer": 3,
+        "explanation": "数字 là ký hiệu chữ số.",
+        "group": 3,
+        "word": "数字"
+      },
+      {
+        "id": "common-318",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "レポートを提出できる最後の日が（　）だ。",
+        "options": [
+          "主流",
+          "機能",
+          "締め切り",
+          "経験"
+        ],
+        "answer": 2,
+        "explanation": "締め切り là hạn chót.",
+        "group": 3,
+        "word": "締め切り"
+      },
+      {
+        "id": "common-319",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "会社の営業部や開発部は、異なる（　）である。",
+        "options": [
+          "原因",
+          "数字",
+          "進捗率",
+          "部署"
+        ],
+        "answer": 3,
+        "explanation": "部署 là phòng hoặc bộ phận trong tổ chức.",
+        "group": 3,
+        "word": "部署"
+      },
+      {
+        "id": "common-320",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "商品の注文を取引先へ出すことを（　）という。",
+        "options": [
+          "返品する",
+          "発注する",
+          "隠す",
+          "残業する"
+        ],
+        "answer": 1,
+        "explanation": "発注する: đặt hàng với nhà cung cấp.",
+        "group": 3,
+        "word": "発注する"
+      },
+      {
+        "id": "common-321",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "買った商品が壊れていたので、店に（　）ことにした。",
+        "options": [
+          "返品する",
+          "導入",
+          "輸出",
+          "依存する"
+        ],
+        "answer": 0,
+        "explanation": "返品する: trả lại hàng đã mua.",
+        "group": 3,
+        "word": "返品する"
+      },
+      {
+        "id": "common-322",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "決められた勤務時間の後も働くことを（　）という。",
+        "options": [
+          "残業する",
+          "輸入",
+          "注文する",
+          "回避する"
+        ],
+        "answer": 0,
+        "explanation": "残業する: làm thêm giờ.",
+        "group": 3,
+        "word": "残業する"
+      },
+      {
+        "id": "common-323",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "情報を複数の人が共通に持つことを（　）という。",
+        "options": [
+          "返品する",
+          "隠す",
+          "共有する",
+          "慌てる"
+        ],
+        "answer": 2,
+        "explanation": "共有する: chia sẻ, cùng có thông tin.",
+        "group": 3,
+        "word": "共有する"
+      },
+      {
+        "id": "common-324",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "間違っているコードの部分を正しく（　）。",
+        "options": [
+          "増員する",
+          "返品する",
+          "輸入",
+          "修正する"
+        ],
+        "answer": 3,
+        "explanation": "修正する: sửa lại lỗi.",
+        "group": 3,
+        "word": "修正する"
+      },
+      {
+        "id": "common-325",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "作業が増えたので、スタッフの人数を（　）ことにした。",
+        "options": [
+          "輸出",
+          "返品する",
+          "増員する",
+          "隠す"
+        ],
+        "answer": 2,
+        "explanation": "増員する: tăng nhân sự.",
+        "group": 3,
+        "word": "増員する"
+      },
+      {
+        "id": "common-326",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "発生したミスを隠さず、（　）報告してください。",
+        "options": [
+          "たまに",
+          "わざと",
+          "たぶん",
+          "正直に"
+        ],
+        "answer": 3,
+        "explanation": "正直に: thành thật, không giấu hoặc nói dối.",
+        "group": 3,
+        "word": "正直に"
+      },
+      {
+        "id": "common-327",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "急がなくていいので、（　）説明してください。",
+        "options": [
+          "すぐに",
+          "やっと",
+          "速やかに",
+          "ゆっくり"
+        ],
+        "answer": 3,
+        "explanation": "ゆっくり: chậm rãi; 急がなくていい đặt ngữ cảnh không cần vội.",
+        "group": 3,
+        "word": "ゆっくり"
+      },
+      {
+        "id": "common-328",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "テストのために、偶然ではなく（　）エラーを発生させた。",
+        "options": [
+          "わざと",
+          "たぶん",
+          "たまに",
+          "やっと"
+        ],
+        "answer": 0,
+        "explanation": "わざと: cố ý; đối lập với ngẫu nhiên.",
+        "group": 3,
+        "word": "わざと"
+      },
+      {
+        "id": "common-329",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "長い間苦労して、（　）問題を解決できた。",
+        "options": [
+          "わざと",
+          "やっと",
+          "時々",
+          "たぶん"
+        ],
+        "answer": 1,
+        "explanation": "やっと: cuối cùng đạt được sau nhiều khó khăn.",
+        "group": 3,
+        "word": "やっと"
+      },
+      {
+        "id": "common-330",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "アプリを動かす命令の集まりが（　）だ。",
+        "options": [
+          "リーダー",
+          "プログラム",
+          "貿易",
+          "クレーム"
+        ],
+        "answer": 1,
+        "explanation": "プログラム: tập hợp chỉ thị để máy tính thực hiện.",
+        "group": 3,
+        "word": "プログラム"
+      },
+      {
+        "id": "common-331",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "お客様から商品についての苦情、つまり（　）が届いた。",
+        "options": [
+          "モジュール",
+          "コーディング",
+          "クレーム",
+          "タイミング"
+        ],
+        "answer": 2,
+        "explanation": "クレーム: phản ánh hoặc khiếu nại.",
+        "group": 3,
+        "word": "クレーム"
+      },
+      {
+        "id": "common-332",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "プログラムのコードを書く作業を（　）という。",
+        "options": [
+          "タイミング",
+          "コーディング",
+          "メンバー",
+          "クレーム"
+        ],
+        "answer": 1,
+        "explanation": "コーディング: viết mã chương trình.",
+        "group": 3,
+        "word": "コーディング"
+      },
+      {
+        "id": "common-333",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "チームをまとめて導く人が（　）だ。",
+        "options": [
+          "ツール",
+          "リーダー",
+          "モジュール",
+          "プログラム"
+        ],
+        "answer": 1,
+        "explanation": "リーダー: người lãnh đạo nhóm.",
+        "group": 3,
+        "word": "リーダー"
+      },
+      {
+        "id": "common-334",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "間違いやずれがなく、（　）な数字を報告する。",
+        "options": [
+          "正確",
+          "普通",
+          "複雑",
+          "重大"
+        ],
+        "answer": 0,
+        "explanation": "正確: chính xác.",
+        "group": 3,
+        "word": "正確"
+      },
+      {
+        "id": "common-335",
+        "type": "context",
+        "prompt": "問題3　（　）に入れるのに最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "多くの要素が入り組んで、仕組みが（　）だ。",
+        "options": [
+          "順調",
+          "正確",
+          "簡単",
+          "複雑"
+        ],
+        "answer": 3,
+        "explanation": "複雑: phức tạp, nhiều yếu tố đan xen.",
+        "group": 3,
+        "word": "複雑"
+      },
+      {
+        "id": "common-336",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "進捗",
+        "options": [
+          "毎朝、作業の進捗を報告する。",
+          "進捗が作業を報告なった。",
+          "作業は進捗な終わる。",
+          "作業を進捗に報告する。"
+        ],
+        "answer": 0,
+        "explanation": "作業の進捗: tiến độ công việc.",
+        "group": 5,
+        "word": "進捗"
+      },
+      {
+        "id": "common-337",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "依存する",
+        "options": [
+          "この機能は外部システムに依存している。",
+          "外部システムを依存に報告した。",
+          "この機能は依存なシステムだ。",
+          "この機能を外部システムが依存にした。"
+        ],
+        "answer": 0,
+        "explanation": "Nに依存する: phụ thuộc vào N. いぞん và いそん đều được dùng.",
+        "group": 5,
+        "word": "依存する"
+      },
+      {
+        "id": "common-338",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "増員する",
+        "options": [
+          "アプリの機能を増員する。",
+          "パソコンの台数を増員する。",
+          "会議室の数を増員する。",
+          "人手が足りないので、スタッフを増員する。"
+        ],
+        "answer": 3,
+        "explanation": "増員 dùng cho tăng số người, không dùng cho thiết bị hoặc chức năng.",
+        "group": 5,
+        "word": "増員する"
+      },
+      {
+        "id": "common-339",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "提出する",
+        "options": [
+          "完成した資料を提出な見せる。",
+          "資料は提出に完成した。",
+          "完成した資料をリーダーに提出する。",
+          "完成した資料がリーダーを提出する。"
+        ],
+        "answer": 2,
+        "explanation": "Tài liệu を + người に提出する: nộp tài liệu.",
+        "group": 5,
+        "word": "提出する"
+      },
+      {
+        "id": "common-340",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "複雑",
+        "options": [
+          "この機能は複雑なので、確認に時間がかかる。",
+          "この機能は複雑を確認する。",
+          "この機能は複雑する確認だ。",
+          "この機能を複雑に時間する。"
+        ],
+        "answer": 0,
+        "explanation": "複雑 là tính từ な: 複雑な機能, 機能は複雑だ.",
+        "group": 5,
+        "word": "複雑"
+      },
+      {
+        "id": "common-341",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "しっかり",
+        "options": [
+          "要件はしっかりな確認だ。",
+          "作業前に要件をしっかり確認する。",
+          "要件をしっかりに確認する。",
+          "要件がしっかりを作業する。"
+        ],
+        "answer": 1,
+        "explanation": "しっかり làm trạng từ trực tiếp trước động từ.",
+        "group": 5,
+        "word": "しっかり"
+      },
+      {
+        "id": "common-342",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "発注する",
+        "options": [
+          "仕入先に必要な部品を発注する。",
+          "部品は発注な仕入先だ。",
+          "必要な部品を発注に買う。",
+          "仕入先が部品を発注な準備する。"
+        ],
+        "answer": 0,
+        "explanation": "Người hoặc công ty に + hàng hóa を発注する.",
+        "group": 5,
+        "word": "発注する"
+      },
+      {
+        "id": "common-343",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "締め切り",
+        "options": [
+          "金曜日を締め切りな提出した。",
+          "資料が締め切りを提出する。",
+          "金曜日に締め切りを資料した。",
+          "資料の締め切りは金曜日です。"
+        ],
+        "answer": 3,
+        "explanation": "締め切り là danh từ chỉ hạn chót.",
+        "group": 5,
+        "word": "締め切り"
+      },
+      {
+        "id": "common-344",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "追加する",
+        "options": [
+          "リストは追加な項目だ。",
+          "必要な試験項目がリストを追加する。",
+          "試験項目を追加に書いた。",
+          "必要な試験項目をリストに追加する。"
+        ],
+        "answer": 3,
+        "explanation": "Thứ を + nơi に追加する: thêm một mục vào danh sách.",
+        "group": 5,
+        "word": "追加する"
+      },
+      {
+        "id": "common-345",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "対応する",
+        "options": [
+          "問い合わせが担当者を対応する。",
+          "担当者がお客様の問い合わせに対応する。",
+          "問い合わせを対応に聞いた。",
+          "担当者は対応な問い合わせをした。"
+        ],
+        "answer": 1,
+        "explanation": "Nに対応する: xử lý đối với câu hỏi, yêu cầu, tình huống.",
+        "group": 5,
+        "word": "対応する"
+      },
+      {
+        "id": "common-346",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "連携する",
+        "options": [
+          "開発チームを連携な作業する。",
+          "テストチームが連携に協力した。",
+          "連携をチームに集める。",
+          "開発チームとテストチームが連携して作業する。"
+        ],
+        "answer": 3,
+        "explanation": "Nと連携する: phối hợp cùng nhóm hoặc tổ chức khác.",
+        "group": 5,
+        "word": "連携する"
+      },
+      {
+        "id": "common-347",
+        "type": "usage",
+        "prompt": "問題5　次の言葉の使い方として最もよいものを1・2・3・4から一つ選びなさい。",
+        "target": "速やかに",
+        "options": [
+          "速やかを対応する。",
+          "問題が起きたら、速やかに対応する。",
+          "速やかにの問題を起こす。",
+          "速やかにが問題をした。"
+        ],
+        "answer": 1,
+        "explanation": "速やかに: nhanh chóng, kịp thời; dùng như trạng từ.",
+        "group": 5,
+        "word": "速やかに"
+      }
+    ],
+    "sessionSize": 40,
+    "sourceNote": "Toàn bộ bảng từ vựng chung người dùng cung cấp. 対応する xuất hiện hai lần được gộp thành một từ. Ngân hàng gồm các dạng đọc, chữ Hán, điền từ, gần nghĩa và cách dùng."
+  }
 }

@@ -31,3 +31,16 @@ for unit in bank['units']:
         print(f"Unit {unit['id']} {section}: {len(questions)}; {dict(Counter(q['type'] for q in questions))}")
 assert len(ids) == 320
 print('PASS: 320 unique IDs, balanced sections, options, answer keys and star positions.')
+common=bank['commonVocabulary']
+assert len(common['words'])==118
+assert len({w['word'] for w in common['words']})==118
+assert Counter(w['category'] for w in common['words'])=={'noun':47,'verb':36,'adjective':11,'adverb':12,'katakana':12}
+assert {q['word'] for q in common['questions']}=={w['word'] for w in common['words']}
+assert Counter(q['type'] for q in common['questions'])['context']>=10
+for q in common['questions']:
+    assert q['id'] not in ids
+    ids.add(q['id'])
+    assert len(q['options'])==len(set(q['options']))==4
+    assert 0<=q['answer']<4 and q['explanation']
+    if 'sentence' in q: assert q['target'] in q['sentence']
+print(f"PASS: {len(common['questions'])} common questions cover all 118 unique words across five categories.")
