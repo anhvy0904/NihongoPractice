@@ -426,5 +426,7 @@ bank = dict(schemaVersion=1,title='Nihongo Practice · Unit 9–12',
                  formats='Google Docs: Thao khảo, ミニテスト① và ミニテスト②.',
                  url='https://docs.google.com/document/d/1HSximubVekvNDQGxYUeXPl1Oxyf48mUYG5MfaLXFw3s/edit?tab=t.hzms1cy131go',
                  vocabularyNote='Google Docs không có danh sách từ theo unit. Từ vựng được biên soạn và phân bổ theo chủ đề từ đề mẫu và ví dụ PDF; không phải danh sách chính thức theo unit.'),units=units)
+from exam_update import revise_bank
+bank = revise_bank(bank)
 (ROOT/'dist'/'questions.json').write_text(json.dumps(bank,ensure_ascii=False,indent=2),encoding='utf-8')
 print('Generated 320 questions: 4 units x (40 vocabulary + 40 grammar).')

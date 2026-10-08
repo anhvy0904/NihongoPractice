@@ -25,6 +25,6 @@ Chạy `python build_questions.py` để biên soạn lại JSON từ nguồn c�
 
 ## Phạm vi tài liệu
 
-Ngữ pháp dựa trên bốn PDF 文型リスト Unit 9–12 do người dùng cung cấp. Dạng bài dựa trên Google Docs “Thao khảo”. Google Docs chỉ có đề mẫu, không có danh sách từ vựng riêng từng unit. Các từ vựng được bổ sung và phân bổ theo chủ đề từ đề mẫu và ví dụ PDF, không phải danh sách chính thức theo unit.
+Từ vựng và dạng bài theo bốn đề mẫu Unit 9–12 người dùng gửi trực tiếp. `exam_update.py` chứa dữ liệu cập nhật, được tích hợp bởi `build_questions.py`. Mỗi phần vẫn giữ 40 câu theo yêu cầu ban đầu. Các câu có ngữ cảnh, từ được gạch chân, hướng dẫn tiếng Nhật và lựa chọn 1–4. Một số phương án trùng hoặc gây nhiều đáp án trong đề mẫu đã được sửa. Không áp dụng giới hạn 10 phút của đề mẫu ngắn cho bài luyện 40 câu.
 
-Mọi câu hỏi được biên soạn mới. Câu được xáo trộn và lựa chọn đáp án được xáo trộn mỗi lần bắt đầu. Đáp án hiện sau nộp bài; có thể xem lại và làm lại những câu chưa đúng. Bài làm chỉ nằm trong bộ nhớ của trang, mất khi tải lại hoặc đóng trang.
+Bộ câu hỏi có câu mẫu và câu biên soạn thêm. Câu được chia theo dạng 問題1–5 (từ vựng) và 問題1–2 (ngữ pháp); lựa chọn đáp án được xáo trộn mỗi lần bắt đầu. Đáp án hiện sau nộp bài; có thể xem lại và làm lại những câu chưa đúng. Bài làm chỉ nằm trong bộ nhớ của trang, mất khi tải lại hoặc đóng trang.
