@@ -38,3 +38,7 @@ Bộ câu hỏi có câu mẫu và câu biên soạn thêm. Câu được chia t
 learning_data.py bổ sung thẻ học cho toàn bộ câu hỏi: furigana, âm Hán Việt cho chữ Hán, nghĩa, câu ví dụ có dịch, từ gần nghĩa và trái nghĩa hoặc đối chiếu. Có 22 thẻ mẫu ngữ pháp. Từ đối chiếu không được coi là trái nghĩa trực tiếp. Không gán cấp JLPT hoặc thống kê tần suất chính thức. Các thẻ nằm trong trường learning của questions.json.
 
 Để biên soạn lại: cài requirements-learning.txt vào thư mục .libraries bằng pip install --target .libraries -r requirements-learning.txt, rồi chạy build_questions.py. Dữ liệu furigana được sinh bằng Janome, có sửa cách đọc các cụm như 九時, 仕入先 và 今日中.
+
+## Giao diện và logo
+
+Bốn màu chủ đạo trong dist/theme.css: #F9B2D7, #CFECF3, #DAF9DE, #F6FFDC. Logo ếch nền trong suốt ở dist/frog-logo.png được tạo từ ảnh tham chiếu người dùng bằng ImageGen; câu lệnh mô tả ở frog-logo-prompt.txt. Logo dùng cho thương hiệu và favicon.
