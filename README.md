@@ -27,7 +27,7 @@ Chạy `python build_questions.py` để biên soạn lại JSON từ nguồn c�
 
 Từ vựng và dạng bài theo bốn đề mẫu Unit 9–12 người dùng gửi trực tiếp. `exam_update.py` chứa dữ liệu cập nhật, được tích hợp bởi `build_questions.py`. Mỗi phần vẫn giữ 40 câu theo yêu cầu ban đầu. Các câu có ngữ cảnh, từ được gạch chân, hướng dẫn tiếng Nhật và lựa chọn 1–4. Một số phương án trùng hoặc gây nhiều đáp án trong đề mẫu đã được sửa. Không áp dụng giới hạn 10 phút của đề mẫu ngắn cho bài luyện 40 câu.
 
-Bộ câu hỏi có câu mẫu và câu biên soạn thêm. Câu được chia theo dạng 問題1–5 (từ vựng) và 問題1–2 (ngữ pháp); lựa chọn đáp án được xáo trộn mỗi lần bắt đầu. Chọn đáp án rồi bấm **Okie** để chấm ngay và tự chuyển sang câu chưa chấm tiếp theo. Kết quả câu vừa chấm và giải thích hiện phía trên câu mới. Câu đã chấm được khóa, có thể mở lại từ bảng số câu. Chấm hết tự hiện tổng điểm; nộp sớm tính câu chưa bấm Okie là chưa trả lời. Có thể xem lại và làm lại những câu chưa đúng. Bài làm chỉ nằm trong bộ nhớ của trang, mất khi tải lại hoặc đóng trang.
+Bộ câu hỏi có câu mẫu và câu biên soạn thêm. Câu được chia theo dạng 問題1–5 (từ vựng) và 問題1–2 (ngữ pháp); lựa chọn đáp án được xáo trộn mỗi lần bắt đầu. Chọn đáp án rồi bấm **Câu tiếp** để nộp, chấm và tự chuyển câu. Sau khi hoàn thành 40 câu, tự mở lượt làm lại gồm những câu sai. Các câu vẫn sai tiếp tục được lặp lại theo lượt đến khi đúng hết. Tổng kết giữ điểm lượt đầu và hiển thị số lượt làm lại; xem đáp án cuối cùng cho toàn bộ 40 câu. Bài làm chỉ nằm trong bộ nhớ của trang, mất khi tải lại hoặc đóng trang.
 
 ## Từ vựng chung
 
