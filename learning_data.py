@@ -236,6 +236,9 @@ def build_learning(bank):
     for line in GRAMMAR.splitlines():
         pattern,meaning,form,sentence,translation,syn,ant=line.split('|')
         patterns[pattern]=dict(word=pattern,meaning=meaning,form=form,sentence=sentence,translation=translation,exampleRuby=ruby(sentence),synonyms=[relation(syn)],antonyms=[relation(ant)])
+    grammar_kanji={'〜一方で':('いっぽうで','nhất phương'),'〜に対して':('にたいして','đối'),'〜代わりに':('かわりに','đại'),'〜とは限らない':('とはかぎらない','hạn'),'〜に加えて':('にくわえて','gia'),'〜恐れがある':('おそれがある','khủng')}
+    for pattern,(reading,hv) in grammar_kanji.items():
+        patterns[pattern].update(reading=reading,hanViet=hv,wordRuby=ruby(pattern))
     def lookup(q):
         if q.get('word'):return q['word']
         key=q['options'][q['answer']] if q['type'] in ('kanji','context') else q['target']

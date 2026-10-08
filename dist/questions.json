@@ -24889,6 +24889,20 @@
             "meaning": "không chỉ (bổ sung)",
             "kind": "contrast"
           }
+        ],
+        "reading": "いっぽうで",
+        "hanViet": "nhất phương",
+        "wordRuby": [
+          {
+            "text": "〜"
+          },
+          {
+            "text": "一方",
+            "reading": "いっぽう"
+          },
+          {
+            "text": "で"
+          }
         ]
       },
       "〜ことは〜が": {
@@ -25076,6 +25090,20 @@
             "reading": "によって",
             "meaning": "tùy theo, bởi",
             "kind": "contrast"
+          }
+        ],
+        "reading": "にたいして",
+        "hanViet": "đối",
+        "wordRuby": [
+          {
+            "text": "〜"
+          },
+          {
+            "text": "に対",
+            "reading": "にたい"
+          },
+          {
+            "text": "して"
           }
         ]
       },
@@ -25325,6 +25353,23 @@
             "reading": "にくわえて",
             "meaning": "thêm vào",
             "kind": "contrast"
+          }
+        ],
+        "reading": "かわりに",
+        "hanViet": "đại",
+        "wordRuby": [
+          {
+            "text": "〜"
+          },
+          {
+            "text": "代",
+            "reading": "か"
+          },
+          {
+            "text": "わり"
+          },
+          {
+            "text": "に"
           }
         ]
       },
@@ -25777,6 +25822,29 @@
             "meaning": "chắc chắn là",
             "kind": "contrast"
           }
+        ],
+        "reading": "とはかぎらない",
+        "hanViet": "hạn",
+        "wordRuby": [
+          {
+            "text": "〜"
+          },
+          {
+            "text": "と"
+          },
+          {
+            "text": "は"
+          },
+          {
+            "text": "限",
+            "reading": "かぎ"
+          },
+          {
+            "text": "ら"
+          },
+          {
+            "text": "ない"
+          }
         ]
       },
       "〜に加えて": {
@@ -25836,6 +25904,26 @@
             "reading": "のかわりに",
             "meaning": "thay cho",
             "kind": "contrast"
+          }
+        ],
+        "reading": "にくわえて",
+        "hanViet": "gia",
+        "wordRuby": [
+          {
+            "text": "〜"
+          },
+          {
+            "text": "に"
+          },
+          {
+            "text": "加",
+            "reading": "くわ"
+          },
+          {
+            "text": "え"
+          },
+          {
+            "text": "て"
           }
         ]
       },
@@ -25901,6 +25989,26 @@
             "reading": "しんぱいはない",
             "meaning": "không lo ngại",
             "kind": "contrast"
+          }
+        ],
+        "reading": "おそれがある",
+        "hanViet": "khủng",
+        "wordRuby": [
+          {
+            "text": "〜"
+          },
+          {
+            "text": "恐",
+            "reading": "おそ"
+          },
+          {
+            "text": "れ"
+          },
+          {
+            "text": "が"
+          },
+          {
+            "text": "ある"
           }
         ]
       }
